@@ -1,0 +1,607 @@
+2025/07/15 15:41:15 INF MediaMTX v1.12.3
+2025/07/15 15:41:15 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:15 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:15 INF waiting for running hooks
+2025/07/15 15:41:20 INF MediaMTX v1.12.3
+2025/07/15 15:41:20 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:20 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:20 INF waiting for running hooks
+2025/07/15 15:41:25 INF MediaMTX v1.12.3
+2025/07/15 15:41:25 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:25 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:25 INF waiting for running hooks
+2025/07/15 15:41:30 INF MediaMTX v1.12.3
+2025/07/15 15:41:30 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:30 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:30 INF waiting for running hooks
+2025/07/15 15:41:36 INF MediaMTX v1.12.3
+2025/07/15 15:41:36 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:36 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:36 INF waiting for running hooks
+2025/07/15 15:41:41 INF MediaMTX v1.12.3
+2025/07/15 15:41:41 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:41 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:41 INF waiting for running hooks
+2025/07/15 15:41:46 INF MediaMTX v1.12.3
+2025/07/15 15:41:46 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:46 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:46 INF waiting for running hooks
+2025/07/15 15:41:51 INF MediaMTX v1.12.3
+2025/07/15 15:41:51 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:51 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:51 INF waiting for running hooks
+2025/07/15 15:41:57 INF MediaMTX v1.12.3
+2025/07/15 15:41:57 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:41:57 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:41:57 INF waiting for running hooks
+2025/07/15 15:42:02 INF MediaMTX v1.12.3
+2025/07/15 15:42:02 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:02 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:02 INF waiting for running hooks
+2025/07/15 15:42:07 INF MediaMTX v1.12.3
+2025/07/15 15:42:07 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:07 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:07 INF waiting for running hooks
+2025/07/15 15:42:12 INF MediaMTX v1.12.3
+2025/07/15 15:42:12 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:12 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:12 INF waiting for running hooks
+2025/07/15 15:42:18 INF MediaMTX v1.12.3
+2025/07/15 15:42:18 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:18 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:18 INF waiting for running hooks
+2025/07/15 15:42:23 INF MediaMTX v1.12.3
+2025/07/15 15:42:23 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:23 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:23 INF waiting for running hooks
+2025/07/15 15:42:28 INF MediaMTX v1.12.3
+2025/07/15 15:42:28 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:28 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:28 INF waiting for running hooks
+2025/07/15 15:42:33 INF MediaMTX v1.12.3
+2025/07/15 15:42:33 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:42:33 ERR listen udp :8000: bind: address already in use
+2025/07/15 15:42:33 INF waiting for running hooks
+2025/07/15 15:45:38 INF MediaMTX v1.12.3
+2025/07/15 15:45:38 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:45:38 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/07/15 15:45:38 INF [RTMP] listener opened on :1935
+2025/07/15 15:45:38 INF [HLS] listener opened on :8888
+2025/07/15 15:45:38 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/07/15 15:45:38 INF [SRT] listener opened on :8890 (UDP)
+2025/07/15 15:45:39 INF [RTSP] [conn 172.16.1.147:58178] opened
+2025/07/15 15:45:39 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:45:39 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:45:44 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:45:49 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:45:49 INF [RTSP] [conn 172.16.1.147:58178] closed: source of path 'PPE3' has timed out
+2025/07/15 15:45:49 INF [RTSP] [conn 172.16.1.147:58180] opened
+2025/07/15 15:45:49 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:45:49 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:45:54 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:45:59 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:45:59 INF [RTSP] [conn 172.16.1.147:58180] closed: source of path 'PPE3' has timed out
+2025/07/15 15:45:59 INF [RTSP] [conn 172.16.1.147:58182] opened
+2025/07/15 15:45:59 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:45:59 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:03 INF [RTSP] [conn 172.16.1.147:58184] opened
+2025/07/15 15:46:03 INF [path PPE4] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:03 INF [path PPE4] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:04 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:08 INF [path PPE4] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:09 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:46:09 INF [RTSP] [conn 172.16.1.147:58182] closed: source of path 'PPE3' has timed out
+2025/07/15 15:46:09 INF [RTSP] [conn 172.16.1.147:58186] opened
+2025/07/15 15:46:09 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:09 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:13 INF [path PPE4] runOnDemand command stopped: timed out
+2025/07/15 15:46:13 INF [RTSP] [conn 172.16.1.147:58184] closed: source of path 'PPE4' has timed out
+2025/07/15 15:46:13 INF [RTSP] [conn 172.16.1.147:58188] opened
+2025/07/15 15:46:13 INF [path PPE4] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:13 INF [path PPE4] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:14 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:18 INF [path PPE4] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:19 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:46:19 INF [RTSP] [conn 172.16.1.147:58186] closed: source of path 'PPE3' has timed out
+2025/07/15 15:46:19 INF [RTSP] [conn 172.16.1.147:58190] opened
+2025/07/15 15:46:19 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:19 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:23 INF [path PPE4] runOnDemand command stopped: timed out
+2025/07/15 15:46:23 INF [RTSP] [conn 172.16.1.147:58188] closed: source of path 'PPE4' has timed out
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:24 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:29 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:46:29 INF [RTSP] [conn 172.16.1.147:58190] closed: source of path 'PPE3' has timed out
+2025/07/15 15:46:29 INF [RTSP] [conn 172.16.1.147:58192] opened
+2025/07/15 15:46:29 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:29 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:34 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:39 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:46:39 INF [RTSP] [conn 172.16.1.147:58192] closed: source of path 'PPE3' has timed out
+2025/07/15 15:46:39 INF [RTSP] [conn 172.16.1.147:58194] opened
+2025/07/15 15:46:39 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:39 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:44 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:46 INF MediaMTX v1.12.3
+2025/07/15 15:46:46 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:46:46 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/07/15 15:46:46 INF [RTMP] listener opened on :1935
+2025/07/15 15:46:46 INF [HLS] listener opened on :8888
+2025/07/15 15:46:46 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/07/15 15:46:46 INF [SRT] listener opened on :8890 (UDP)
+2025/07/15 15:46:47 INF [RTSP] [conn 172.16.1.147:58200] opened
+2025/07/15 15:46:47 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:47 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:52 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:46:57 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:46:57 INF [RTSP] [conn 172.16.1.147:58200] closed: source of path 'PPE3' has timed out
+2025/07/15 15:46:57 INF [RTSP] [conn 172.16.1.147:58202] opened
+2025/07/15 15:46:57 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:46:57 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:02 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:06 INF [RTSP] [conn 172.16.1.147:58204] opened
+2025/07/15 15:47:07 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:07 INF [RTSP] [conn 172.16.1.147:58204] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:07 INF [RTSP] [conn 172.16.1.147:58202] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:07 INF [RTSP] [conn 172.16.1.147:58206] opened
+2025/07/15 15:47:07 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:07 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:07 INF [RTSP] [conn 172.16.1.147:58208] opened
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:12 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:17 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:17 INF [RTSP] [conn 172.16.1.147:58208] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:17 INF [RTSP] [conn 172.16.1.147:58206] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:17 INF [RTSP] [conn 172.16.1.147:58210] opened
+2025/07/15 15:47:17 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:17 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:22 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:27 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:27 INF [RTSP] [conn 172.16.1.147:58210] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:27 INF [RTSP] [conn 172.16.1.147:58212] opened
+2025/07/15 15:47:27 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:27 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:32 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:37 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:37 INF [RTSP] [conn 172.16.1.147:58212] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:37 INF [RTSP] [conn 172.16.1.147:58214] opened
+2025/07/15 15:47:37 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:37 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:42 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:47 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:47 INF [RTSP] [conn 172.16.1.147:58214] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:47 INF [RTSP] [conn 172.16.1.147:58216] opened
+2025/07/15 15:47:47 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:47 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:52 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:47:57 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:47:57 INF [RTSP] [conn 172.16.1.147:58216] closed: source of path 'PPE3' has timed out
+2025/07/15 15:47:57 INF [RTSP] [conn 172.16.1.147:58218] opened
+2025/07/15 15:47:57 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:47:57 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:02 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:07 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:07 INF [RTSP] [conn 172.16.1.147:58218] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:07 INF [RTSP] [conn 172.16.1.147:58220] opened
+2025/07/15 15:48:07 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:07 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:12 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:17 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:17 INF [RTSP] [conn 172.16.1.147:58220] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:17 INF [RTSP] [conn 172.16.1.147:58222] opened
+2025/07/15 15:48:17 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:17 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:22 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:27 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:27 INF [RTSP] [conn 172.16.1.147:58222] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:27 INF [RTSP] [conn 172.16.1.147:58224] opened
+2025/07/15 15:48:27 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:27 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:32 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:37 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:37 INF [RTSP] [conn 172.16.1.147:58224] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:37 INF [RTSP] [conn 172.16.1.147:58226] opened
+2025/07/15 15:48:37 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:37 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:42 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:47 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:47 INF [RTSP] [conn 172.16.1.147:58226] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:47 INF [RTSP] [conn 172.16.1.147:58228] opened
+2025/07/15 15:48:47 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:47 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:52 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:48:57 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:48:57 INF [RTSP] [conn 172.16.1.147:58228] closed: source of path 'PPE3' has timed out
+2025/07/15 15:48:57 INF [RTSP] [conn 172.16.1.147:58230] opened
+2025/07/15 15:48:57 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:48:57 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:02 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:07 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:07 INF [RTSP] [conn 172.16.1.147:58230] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:07 INF [RTSP] [conn 172.16.1.147:58232] opened
+2025/07/15 15:49:07 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:07 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:12 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:17 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:17 INF [RTSP] [conn 172.16.1.147:58232] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:17 INF [RTSP] [conn 172.16.1.147:58234] opened
+2025/07/15 15:49:17 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:17 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:22 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:27 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:27 INF [RTSP] [conn 172.16.1.147:58234] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:27 INF [RTSP] [conn 172.16.1.147:58238] opened
+2025/07/15 15:49:27 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:27 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:32 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:37 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:37 INF [RTSP] [conn 172.16.1.147:58238] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:37 INF [RTSP] [conn 172.16.1.147:58240] opened
+2025/07/15 15:49:37 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:37 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:42 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:47 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:47 INF [RTSP] [conn 172.16.1.147:58240] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:47 INF [RTSP] [conn 172.16.1.147:58244] opened
+2025/07/15 15:49:47 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:47 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:52 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:49:57 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:49:57 INF [RTSP] [conn 172.16.1.147:58244] closed: source of path 'PPE3' has timed out
+2025/07/15 15:49:57 INF [RTSP] [conn 172.16.1.147:58246] opened
+2025/07/15 15:49:57 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:49:57 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:02 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:50:07 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:50:07 INF [RTSP] [conn 172.16.1.147:58246] closed: source of path 'PPE3' has timed out
+2025/07/15 15:50:07 INF [RTSP] [conn 172.16.1.147:58248] opened
+2025/07/15 15:50:07 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:07 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:12 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:50:17 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:50:17 INF [RTSP] [conn 172.16.1.147:58248] closed: source of path 'PPE3' has timed out
+2025/07/15 15:50:17 INF [RTSP] [conn 172.16.1.147:58250] opened
+2025/07/15 15:50:17 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:17 INF [path PPE3] runOnDemand command exited: command exited with code 0
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:22 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:50:27 INF [path PPE3] runOnDemand command stopped: timed out
+2025/07/15 15:50:27 INF [RTSP] [conn 172.16.1.147:58250] closed: source of path 'PPE3' has timed out
+2025/07/15 15:50:27 INF [RTSP] [conn 172.16.1.147:58252] opened
+2025/07/15 15:50:27 INF [path PPE3] runOnDemand command started
+/opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg: error while loading shared libraries: libavdevice.so.56: cannot open shared object file: No such file or directory
+2025/07/15 15:50:27 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:50:29 INF MediaMTX v1.12.3
+2025/07/15 15:50:29 INF configuration loaded from /mnt/Data2/mediamtx/mediamtx-multi.yml
+2025/07/15 15:50:29 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/07/15 15:50:29 INF [RTMP] listener opened on :1935
+2025/07/15 15:50:29 INF [HLS] listener opened on :8888
+2025/07/15 15:50:29 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/07/15 15:50:29 INF [SRT] listener opened on :8890 (UDP)
+2025/07/15 15:50:30 INF [RTSP] [conn 172.16.1.147:58256] opened
+2025/07/15 15:50:30 INF [path PPE3] runOnDemand command started
+ffmpeg version 2.8.8 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/opt/ffmpeg-2.8.8_x264_v142 --enable-ffplay --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-network --enable-protocol=tcp --enable-demuxer=rtsp --enable-decoder=mjpeg --enable-decoder=h264 --disable-pthreads --disable-asm --extra-cflags=-fPIC --enable-debug --extra-cflags=-g --disable-optimizations --disable-mmx --disable-stripping --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+[h264 @ 0x56475b3d0e40] Warning: not compiled with thread support, using thread emulation
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/Data2/150_PPE_03.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf58.76.100
+  Duration: 00:03:06.20, start: 0.000000, bitrate: 4203 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuvj420p(pc, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[rtsp @ 0x56475b3d1fe0] Codec for stream 0 does not use global headers but container format requires global headers
+2025/07/15 15:50:30 INF [RTSP] [conn 127.0.0.1:56758] opened
+2025/07/15 15:50:30 INF [RTSP] [session 1cd0e7a5] created by 127.0.0.1:56758
+2025/07/15 15:50:30 INF [RTSP] [session 1cd0e7a5] is publishing to path 'PPE3', 1 track (H264)
+Output #0, rtsp, to 'rtsp://0.0.0.0:8554/PPE3':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf56.40.101
+    Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuvj420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 10 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+2025/07/15 15:50:30 INF [RTSP] [session 8e283be4] created by 172.16.1.147:58256
+2025/07/15 15:50:30 INF [RTSP] [session 8e283be4] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   13 fps=0.0 q=-1.0 size=N/A time=00:00:00.70 bitrate=N/A    frame=   18 fps= 18 q=-1.0 size=N/A time=00:00:01.20 bitrate=N/A    frame=   23 fps= 15 q=-1.0 size=N/A time=00:00:01.70 bitrate=N/A    frame=   28 fps= 14 q=-1.0 size=N/A time=00:00:02.20 bitrate=N/A    frame=   33 fps= 13 q=-1.0 size=N/A time=00:00:02.70 bitrate=N/A    frame=   38 fps= 13 q=-1.0 size=N/A time=00:00:03.19 bitrate=N/A    2025/07/15 15:50:33 INF [RTSP] [session 8e283be4] destroyed: torn down by 172.16.1.147:58256
+2025/07/15 15:50:33 INF [RTSP] [conn 172.16.1.147:58256] closed: EOF
+2025/07/15 15:50:33 INF [RTSP] [conn 172.16.1.147:58258] opened
+2025/07/15 15:50:33 INF [RTSP] [session 76768599] created by 172.16.1.147:58258
+2025/07/15 15:50:33 INF [RTSP] [session 76768599] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   43 fps= 12 q=-1.0 size=N/A time=00:00:03.70 bitrate=N/A    frame=   48 fps= 12 q=-1.0 size=N/A time=00:00:04.20 bitrate=N/A    frame=   53 fps= 12 q=-1.0 size=N/A time=00:00:04.70 bitrate=N/A    frame=   58 fps= 11 q=-1.0 size=N/A time=00:00:05.20 bitrate=N/A    frame=   63 fps= 11 q=-1.0 size=N/A time=00:00:05.70 bitrate=N/A    frame=   68 fps= 11 q=-1.0 size=N/A time=00:00:06.20 bitrate=N/A    frame=   73 fps= 11 q=-1.0 size=N/A time=00:00:06.70 bitrate=N/A    frame=   78 fps= 11 q=-1.0 size=N/A time=00:00:07.19 bitrate=N/A    frame=   83 fps= 11 q=-1.0 size=N/A time=00:00:07.70 bitrate=N/A    frame=   88 fps= 11 q=-1.0 size=N/A time=00:00:08.20 bitrate=N/A    frame=   93 fps= 11 q=-1.0 size=N/A time=00:00:08.70 bitrate=N/A    frame=   98 fps= 11 q=-1.0 size=N/A time=00:00:09.20 bitrate=N/A    frame=  103 fps= 11 q=-1.0 size=N/A time=00:00:09.70 bitrate=N/A    frame=  108 fps= 11 q=-1.0 size=N/A time=00:00:10.20 bitrate=N/A    frame=  114 fps= 11 q=-1.0 size=N/A time=00:00:10.80 bitrate=N/A    frame=  119 fps= 11 q=-1.0 size=N/A time=00:00:11.30 bitrate=N/A    frame=  124 fps= 11 q=-1.0 size=N/A time=00:00:11.80 bitrate=N/A    frame=  129 fps= 11 q=-1.0 size=N/A time=00:00:12.30 bitrate=N/A    frame=  134 fps= 11 q=-1.0 size=N/A time=00:00:12.80 bitrate=N/A    frame=  139 fps= 11 q=-1.0 size=N/A time=00:00:13.30 bitrate=N/A    frame=  144 fps= 11 q=-1.0 size=N/A time=00:00:13.80 bitrate=N/A    frame=  149 fps= 11 q=-1.0 size=N/A time=00:00:14.30 bitrate=N/A    frame=  154 fps= 11 q=-1.0 size=N/A time=00:00:14.80 bitrate=N/A    frame=  159 fps= 11 q=-1.0 size=N/A time=00:00:15.30 bitrate=N/A    frame=  164 fps= 10 q=-1.0 size=N/A time=00:00:15.80 bitrate=N/A    frame=  169 fps= 10 q=-1.0 size=N/A time=00:00:16.30 bitrate=N/A    frame=  174 fps= 10 q=-1.0 size=N/A time=00:00:16.80 bitrate=N/A    frame=  179 fps= 10 q=-1.0 size=N/A time=00:00:17.30 bitrate=N/A    frame=  184 fps= 10 q=-1.0 size=N/A time=00:00:17.80 bitrate=N/A    frame=  189 fps= 10 q=-1.0 size=N/A time=00:00:18.30 bitrate=N/A    frame=  194 fps= 10 q=-1.0 size=N/A time=00:00:18.80 bitrate=N/A    frame=  199 fps= 10 q=-1.0 size=N/A time=00:00:19.30 bitrate=N/A    frame=  204 fps= 10 q=-1.0 size=N/A time=00:00:19.80 bitrate=N/A    frame=  209 fps= 10 q=-1.0 size=N/A time=00:00:20.30 bitrate=N/A    frame=  214 fps= 10 q=-1.0 size=N/A time=00:00:20.80 bitrate=N/A    frame=  219 fps= 10 q=-1.0 size=N/A time=00:00:21.30 bitrate=N/A    frame=  225 fps= 10 q=-1.0 size=N/A time=00:00:21.90 bitrate=N/A    frame=  230 fps= 10 q=-1.0 size=N/A time=00:00:22.40 bitrate=N/A    frame=  235 fps= 10 q=-1.0 size=N/A time=00:00:22.90 bitrate=N/A    frame=  240 fps= 10 q=-1.0 size=N/A time=00:00:23.40 bitrate=N/A    frame=  245 fps= 10 q=-1.0 size=N/A time=00:00:23.90 bitrate=N/A    frame=  250 fps= 10 q=-1.0 size=N/A time=00:00:24.40 bitrate=N/A    frame=  255 fps= 10 q=-1.0 size=N/A time=00:00:24.90 bitrate=N/A    frame=  260 fps= 10 q=-1.0 size=N/A time=00:00:25.40 bitrate=N/A    frame=  265 fps= 10 q=-1.0 size=N/A time=00:00:25.90 bitrate=N/A    frame=  270 fps= 10 q=-1.0 size=N/A time=00:00:26.40 bitrate=N/A    frame=  275 fps= 10 q=-1.0 size=N/A time=00:00:26.90 bitrate=N/A    frame=  280 fps= 10 q=-1.0 size=N/A time=00:00:27.40 bitrate=N/A    frame=  285 fps= 10 q=-1.0 size=N/A time=00:00:27.90 bitrate=N/A    frame=  290 fps= 10 q=-1.0 size=N/A time=00:00:28.40 bitrate=N/A    frame=  295 fps= 10 q=-1.0 size=N/A time=00:00:28.90 bitrate=N/A    frame=  300 fps= 10 q=-1.0 size=N/A time=00:00:29.40 bitrate=N/A    frame=  305 fps= 10 q=-1.0 size=N/A time=00:00:29.90 bitrate=N/A    frame=  310 fps= 10 q=-1.0 size=N/A time=00:00:30.40 bitrate=N/A    frame=  316 fps= 10 q=-1.0 size=N/A time=00:00:31.00 bitrate=N/A    frame=  321 fps= 10 q=-1.0 size=N/A time=00:00:31.50 bitrate=N/A    frame=  326 fps= 10 q=-1.0 size=N/A time=00:00:32.00 bitrate=N/A    frame=  331 fps= 10 q=-1.0 size=N/A time=00:00:32.50 bitrate=N/A    frame=  336 fps= 10 q=-1.0 size=N/A time=00:00:33.00 bitrate=N/A    frame=  341 fps= 10 q=-1.0 size=N/A time=00:00:33.50 bitrate=N/A    frame=  346 fps= 10 q=-1.0 size=N/A time=00:00:34.00 bitrate=N/A    frame=  351 fps= 10 q=-1.0 size=N/A time=00:00:34.50 bitrate=N/A    frame=  356 fps= 10 q=-1.0 size=N/A time=00:00:35.00 bitrate=N/A    frame=  361 fps= 10 q=-1.0 size=N/A time=00:00:35.50 bitrate=N/A    2025/07/15 15:51:06 INF [RTSP] [conn 172.16.1.147:58260] opened
+2025/07/15 15:51:06 INF [path PPE4] runOnDemand command started
+ffmpeg version 2.8.8 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/opt/ffmpeg-2.8.8_x264_v142 --enable-ffplay --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-network --enable-protocol=tcp --enable-demuxer=rtsp --enable-decoder=mjpeg --enable-decoder=h264 --disable-pthreads --disable-asm --extra-cflags=-fPIC --enable-debug --extra-cflags=-g --disable-optimizations --disable-mmx --disable-stripping --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+[h264 @ 0x55ed38e85e40] Warning: not compiled with thread support, using thread emulation
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/Data2/150_PPE_04.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf58.76.100
+  Duration: 00:03:03.10, start: 0.000000, bitrate: 4217 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuvj420p(pc, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4217 kb/s, 10.03 fps, 10 tbr, 90k tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[rtsp @ 0x55ed38e87020] Codec for stream 0 does not use global headers but container format requires global headers
+2025/07/15 15:51:06 INF [RTSP] [conn 127.0.0.1:56760] opened
+2025/07/15 15:51:06 INF [RTSP] [session cbf33443] created by 127.0.0.1:56760
+2025/07/15 15:51:06 INF [RTSP] [session cbf33443] is publishing to path 'PPE4', 1 track (H264)
+Output #0, rtsp, to 'rtsp://0.0.0.0:8554/PPE4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf56.40.101
+    Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuvj420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4217 kb/s, 10.03 fps, 10 tbr, 90k tbn, 10 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+2025/07/15 15:51:06 INF [RTSP] [conn 172.16.1.147:58260] closed: EOF
+2025/07/15 15:51:06 INF [RTSP] [conn 172.16.1.147:58262] opened
+2025/07/15 15:51:06 INF [RTSP] [session 39ff4812] created by 172.16.1.147:58262
+2025/07/15 15:51:06 INF [RTSP] [session 39ff4812] is reading from path 'PPE4', with UDP, 1 track (H264)
+frame=  366 fps= 10 q=-1.0 size=N/A time=00:00:36.00 bitrate=N/A    frame=   13 fps=0.0 q=-1.0 size=N/A time=00:00:00.70 bitrate=N/A    frame=  371 fps= 10 q=-1.0 size=N/A time=00:00:36.50 bitrate=N/A    frame=   18 fps= 18 q=-1.0 size=N/A time=00:00:01.19 bitrate=N/A    frame=  376 fps= 10 q=-1.0 size=N/A time=00:00:37.00 bitrate=N/A    frame=   23 fps= 15 q=-1.0 size=N/A time=00:00:01.69 bitrate=N/A    frame=  381 fps= 10 q=-1.0 size=N/A time=00:00:37.50 bitrate=N/A    frame=   28 fps= 14 q=-1.0 size=N/A time=00:00:02.19 bitrate=N/A    frame=  386 fps= 10 q=-1.0 size=N/A time=00:00:38.00 bitrate=N/A    frame=   33 fps= 13 q=-1.0 size=N/A time=00:00:02.69 bitrate=N/A    frame=  392 fps= 10 q=-1.0 size=N/A time=00:00:38.60 bitrate=N/A    frame=   38 fps= 13 q=-1.0 size=N/A time=00:00:03.19 bitrate=N/A    frame=  397 fps= 10 q=-1.0 size=N/A time=00:00:39.10 bitrate=N/A    frame=   43 fps= 12 q=-1.0 size=N/A time=00:00:03.69 bitrate=N/A    frame=  402 fps= 10 q=-1.0 size=N/A time=00:00:39.60 bitrate=N/A    frame=   48 fps= 12 q=-1.0 size=N/A time=00:00:04.19 bitrate=N/A    frame=  407 fps= 10 q=-1.0 size=N/A time=00:00:40.10 bitrate=N/A    frame=   53 fps= 12 q=-1.0 size=N/A time=00:00:04.69 bitrate=N/A    frame=  412 fps= 10 q=-1.0 size=N/A time=00:00:40.60 bitrate=N/A    frame=   58 fps= 11 q=-1.0 size=N/A time=00:00:05.19 bitrate=N/A    frame=  417 fps= 10 q=-1.0 size=N/A time=00:00:41.10 bitrate=N/A    frame=   63 fps= 11 q=-1.0 size=N/A time=00:00:05.69 bitrate=N/A    frame=  422 fps= 10 q=-1.0 size=N/A time=00:00:41.60 bitrate=N/A    frame=   68 fps= 11 q=-1.0 size=N/A time=00:00:06.19 bitrate=N/A    frame=  427 fps= 10 q=-1.0 size=N/A time=00:00:42.10 bitrate=N/A    frame=   73 fps= 11 q=-1.0 size=N/A time=00:00:06.69 bitrate=N/A    frame=  432 fps= 10 q=-1.0 size=N/A time=00:00:42.60 bitrate=N/A    frame=   78 fps= 11 q=-1.0 size=N/A time=00:00:07.19 bitrate=N/A    frame=  437 fps= 10 q=-1.0 size=N/A time=00:00:43.10 bitrate=N/A    2025/07/15 15:51:14 INF [RTSP] [session 39ff4812] destroyed: torn down by 172.16.1.147:58262
+2025/07/15 15:51:14 INF [RTSP] [conn 172.16.1.147:58262] closed: EOF
+frame=   83 fps= 11 q=-1.0 size=N/A time=00:00:07.69 bitrate=N/A    frame=  442 fps= 10 q=-1.0 size=N/A time=00:00:43.60 bitrate=N/A    frame=   89 fps= 11 q=-1.0 size=N/A time=00:00:08.29 bitrate=N/A    frame=  447 fps= 10 q=-1.0 size=N/A time=00:00:44.10 bitrate=N/A    frame=   94 fps= 11 q=-1.0 size=N/A time=00:00:08.79 bitrate=N/A    frame=  452 fps= 10 q=-1.0 size=N/A time=00:00:44.60 bitrate=N/A    frame=   99 fps= 11 q=-1.0 size=N/A time=00:00:09.29 bitrate=N/A    frame=  457 fps= 10 q=-1.0 size=N/A time=00:00:45.10 bitrate=N/A    frame=  104 fps= 11 q=-1.0 size=N/A time=00:00:09.79 bitrate=N/A    frame=  462 fps= 10 q=-1.0 size=N/A time=00:00:45.60 bitrate=N/A    frame=  109 fps= 11 q=-1.0 size=N/A time=00:00:10.29 bitrate=N/A    frame=  467 fps= 10 q=-1.0 size=N/A time=00:00:46.10 bitrate=N/A    frame=  114 fps= 11 q=-1.0 size=N/A time=00:00:10.80 bitrate=N/A    frame=  472 fps= 10 q=-1.0 size=N/A time=00:00:46.60 bitrate=N/A    frame=  119 fps= 11 q=-1.0 size=N/A time=00:00:11.30 bitrate=N/A    frame=  477 fps= 10 q=-1.0 size=N/A time=00:00:47.10 bitrate=N/A    frame=  124 fps= 11 q=-1.0 size=N/A time=00:00:11.80 bitrate=N/A    frame=  483 fps= 10 q=-1.0 size=N/A time=00:00:47.70 bitrate=N/A    frame=  129 fps= 11 q=-1.0 size=N/A time=00:00:12.30 bitrate=N/A    frame=  488 fps= 10 q=-1.0 size=N/A time=00:00:48.20 bitrate=N/A    frame=  134 fps= 11 q=-1.0 size=N/A time=00:00:12.79 bitrate=N/A    frame=  493 fps= 10 q=-1.0 size=N/A time=00:00:48.70 bitrate=N/A    frame=  139 fps= 11 q=-1.0 size=N/A time=00:00:13.29 bitrate=N/A    frame=  498 fps= 10 q=-1.0 size=N/A time=00:00:49.20 bitrate=N/A    frame=  144 fps= 11 q=-1.0 size=N/A time=00:00:13.79 bitrate=N/A    frame=  503 fps= 10 q=-1.0 size=N/A time=00:00:49.70 bitrate=N/A    frame=  149 fps= 11 q=-1.0 size=N/A time=00:00:14.29 bitrate=N/A    frame=  508 fps= 10 q=-1.0 size=N/A time=00:00:50.20 bitrate=N/A    frame=  154 fps= 10 q=-1.0 size=N/A time=00:00:14.79 bitrate=N/A    frame=  513 fps= 10 q=-1.0 size=N/A time=00:00:50.70 bitrate=N/A    frame=  159 fps= 10 q=-1.0 size=N/A time=00:00:15.29 bitrate=N/A    frame=  518 fps= 10 q=-1.0 size=N/A time=00:00:51.20 bitrate=N/A    frame=  164 fps= 10 q=-1.0 size=N/A time=00:00:15.79 bitrate=N/A    frame=  523 fps= 10 q=-1.0 size=N/A time=00:00:51.70 bitrate=N/A    frame=  169 fps= 10 q=-1.0 size=N/A time=00:00:16.29 bitrate=N/A    frame=  528 fps= 10 q=-1.0 size=N/A time=00:00:52.20 bitrate=N/A    frame=  174 fps= 10 q=-1.0 size=N/A time=00:00:16.79 bitrate=N/A    frame=  533 fps= 10 q=-1.0 size=N/A time=00:00:52.69 bitrate=N/A    frame=  179 fps= 10 q=-1.0 size=N/A time=00:00:17.29 bitrate=N/A    frame=  538 fps= 10 q=-1.0 size=N/A time=00:00:53.19 bitrate=N/A    2025/07/15 15:51:24 INF [RTSP] [conn 172.16.1.147:58264] opened
+2025/07/15 15:51:24 INF [path Gloves] runOnDemand command started
+ffmpeg version 2.8.8 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/opt/ffmpeg-2.8.8_x264_v142 --enable-ffplay --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-network --enable-protocol=tcp --enable-demuxer=rtsp --enable-decoder=mjpeg --enable-decoder=h264 --disable-pthreads --disable-asm --extra-cflags=-fPIC --enable-debug --extra-cflags=-g --disable-optimizations --disable-mmx --disable-stripping --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+[h264 @ 0x5603e9fa1e40] Warning: not compiled with thread support, using thread emulation
+2025/07/15 15:51:24 INF [path PPE4] runOnDemand command stopped: not needed by anyone
+frame=  183 fps= 10 q=-1.0 Lsize=N/A time=00:00:17.69 bitrate=N/A    
+video:9667kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Exiting normally, received signal 2.
+2025/07/15 15:51:24 INF [RTSP] [session cbf33443] destroyed: torn down by 127.0.0.1:56760
+2025/07/15 15:51:24 INF [RTSP] [conn 127.0.0.1:56760] closed: EOF
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/Data2/150_Gloves_01.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf58.76.100
+  Duration: 00:01:35.40, start: 0.000000, bitrate: 4212 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuvj420p(pc, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4212 kb/s, 10.06 fps, 10 tbr, 90k tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[rtsp @ 0x5603e9fcc5f0] Codec for stream 0 does not use global headers but container format requires global headers
+2025/07/15 15:51:24 INF [RTSP] [conn 127.0.0.1:56762] opened
+2025/07/15 15:51:24 INF [RTSP] [session 05f98968] created by 127.0.0.1:56762
+2025/07/15 15:51:24 INF [RTSP] [session 05f98968] is publishing to path 'Gloves', 1 track (H264)
+Output #0, rtsp, to 'rtsp://0.0.0.0:8554/Gloves':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf56.40.101
+2025/07/15 15:51:24 INF [RTSP] [conn 172.16.1.147:58264] closed: EOF
+    Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuvj420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4212 kb/s, 10.06 fps, 10 tbr, 90k tbn, 10 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+2025/07/15 15:51:24 INF [RTSP] [conn 172.16.1.147:58266] opened
+2025/07/15 15:51:24 INF [RTSP] [session 033709c7] created by 172.16.1.147:58266
+2025/07/15 15:51:24 INF [RTSP] [session 033709c7] is reading from path 'Gloves', with UDP, 1 track (H264)
+frame=  543 fps= 10 q=-1.0 size=N/A time=00:00:53.70 bitrate=N/A    frame=   13 fps=0.0 q=-1.0 size=N/A time=00:00:00.70 bitrate=N/A    frame=  548 fps= 10 q=-1.0 size=N/A time=00:00:54.20 bitrate=N/A    frame=   18 fps= 18 q=-1.0 size=N/A time=00:00:01.19 bitrate=N/A    frame=  553 fps= 10 q=-1.0 size=N/A time=00:00:54.70 bitrate=N/A    frame=   23 fps= 15 q=-1.0 size=N/A time=00:00:01.69 bitrate=N/A    frame=  558 fps= 10 q=-1.0 size=N/A time=00:00:55.20 bitrate=N/A    frame=   28 fps= 14 q=-1.0 size=N/A time=00:00:02.19 bitrate=N/A    frame=  563 fps= 10 q=-1.0 size=N/A time=00:00:55.70 bitrate=N/A    frame=   33 fps= 13 q=-1.0 size=N/A time=00:00:02.70 bitrate=N/A    frame=  568 fps= 10 q=-1.0 size=N/A time=00:00:56.20 bitrate=N/A    frame=   38 fps= 13 q=-1.0 size=N/A time=00:00:03.19 bitrate=N/A    frame=  574 fps= 10 q=-1.0 size=N/A time=00:00:56.80 bitrate=N/A    frame=   43 fps= 12 q=-1.0 size=N/A time=00:00:03.69 bitrate=N/A    frame=  579 fps= 10 q=-1.0 size=N/A time=00:00:57.30 bitrate=N/A    frame=   48 fps= 12 q=-1.0 size=N/A time=00:00:04.19 bitrate=N/A    frame=  584 fps= 10 q=-1.0 size=N/A time=00:00:57.80 bitrate=N/A    frame=   53 fps= 12 q=-1.0 size=N/A time=00:00:04.70 bitrate=N/A    frame=  589 fps= 10 q=-1.0 size=N/A time=00:00:58.30 bitrate=N/A    frame=   58 fps= 11 q=-1.0 size=N/A time=00:00:05.19 bitrate=N/A    frame=  594 fps= 10 q=-1.0 size=N/A time=00:00:58.80 bitrate=N/A    frame=   63 fps= 11 q=-1.0 size=N/A time=00:00:05.70 bitrate=N/A    frame=  599 fps= 10 q=-1.0 size=N/A time=00:00:59.30 bitrate=N/A    frame=   68 fps= 11 q=-1.0 size=N/A time=00:00:06.20 bitrate=N/A    frame=  604 fps= 10 q=-1.0 size=N/A time=00:00:59.80 bitrate=N/A    frame=   73 fps= 11 q=-1.0 size=N/A time=00:00:06.70 bitrate=N/A    frame=  609 fps= 10 q=-1.0 size=N/A time=00:01:00.30 bitrate=N/A    frame=   78 fps= 11 q=-1.0 size=N/A time=00:00:07.20 bitrate=N/A    frame=  614 fps= 10 q=-1.0 size=N/A time=00:01:00.80 bitrate=N/A    frame=   83 fps= 11 q=-1.0 size=N/A time=00:00:07.70 bitrate=N/A    frame=  619 fps= 10 q=-1.0 size=N/A time=00:01:01.30 bitrate=N/A    frame=   88 fps= 11 q=-1.0 size=N/A time=00:00:08.20 bitrate=N/A    frame=  624 fps= 10 q=-1.0 size=N/A time=00:01:01.80 bitrate=N/A    frame=   93 fps= 11 q=-1.0 size=N/A time=00:00:08.70 bitrate=N/A    frame=  629 fps= 10 q=-1.0 size=N/A time=00:01:02.30 bitrate=N/A    frame=   98 fps= 11 q=-1.0 size=N/A time=00:00:09.20 bitrate=N/A    frame=  634 fps= 10 q=-1.0 size=N/A time=00:01:02.80 bitrate=N/A    frame=  104 fps= 11 q=-1.0 size=N/A time=00:00:09.80 bitrate=N/A    frame=  639 fps= 10 q=-1.0 size=N/A time=00:01:03.30 bitrate=N/A    frame=  109 fps= 11 q=-1.0 size=N/A time=00:00:10.30 bitrate=N/A    frame=  644 fps= 10 q=-1.0 size=N/A time=00:01:03.80 bitrate=N/A    frame=  114 fps= 11 q=-1.0 size=N/A time=00:00:10.80 bitrate=N/A    frame=  649 fps= 10 q=-1.0 size=N/A time=00:01:04.30 bitrate=N/A    frame=  119 fps= 11 q=-1.0 size=N/A time=00:00:11.30 bitrate=N/A    frame=  654 fps= 10 q=-1.0 size=N/A time=00:01:04.80 bitrate=N/A    2025/07/15 15:51:35 INF [RTSP] [session 033709c7] destroyed: torn down by 172.16.1.147:58266
+2025/07/15 15:51:35 INF [RTSP] [conn 172.16.1.147:58266] closed: EOF
+frame=  124 fps= 11 q=-1.0 size=N/A time=00:00:11.80 bitrate=N/A    frame=  660 fps= 10 q=-1.0 size=N/A time=00:01:05.40 bitrate=N/A    frame=  129 fps= 11 q=-1.0 size=N/A time=00:00:12.30 bitrate=N/A    frame=  665 fps= 10 q=-1.0 size=N/A time=00:01:05.90 bitrate=N/A    frame=  134 fps= 11 q=-1.0 size=N/A time=00:00:12.80 bitrate=N/A    frame=  670 fps= 10 q=-1.0 size=N/A time=00:01:06.40 bitrate=N/A    frame=  139 fps= 11 q=-1.0 size=N/A time=00:00:13.30 bitrate=N/A    frame=  675 fps= 10 q=-1.0 size=N/A time=00:01:06.90 bitrate=N/A    frame=  144 fps= 11 q=-1.0 size=N/A time=00:00:13.80 bitrate=N/A    frame=  680 fps= 10 q=-1.0 size=N/A time=00:01:07.40 bitrate=N/A    frame=  149 fps= 11 q=-1.0 size=N/A time=00:00:14.30 bitrate=N/A    frame=  685 fps= 10 q=-1.0 size=N/A time=00:01:07.90 bitrate=N/A    frame=  154 fps= 10 q=-1.0 size=N/A time=00:00:14.80 bitrate=N/A    frame=  690 fps= 10 q=-1.0 size=N/A time=00:01:08.40 bitrate=N/A    frame=  159 fps= 10 q=-1.0 size=N/A time=00:00:15.29 bitrate=N/A    frame=  695 fps= 10 q=-1.0 size=N/A time=00:01:08.90 bitrate=N/A    frame=  164 fps= 10 q=-1.0 size=N/A time=00:00:15.80 bitrate=N/A    frame=  700 fps= 10 q=-1.0 size=N/A time=00:01:09.40 bitrate=N/A    frame=  169 fps= 10 q=-1.0 size=N/A time=00:00:16.30 bitrate=N/A    frame=  705 fps= 10 q=-1.0 size=N/A time=00:01:09.90 bitrate=N/A    frame=  174 fps= 10 q=-1.0 size=N/A time=00:00:16.80 bitrate=N/A    frame=  710 fps= 10 q=-1.0 size=N/A time=00:01:10.40 bitrate=N/A    frame=  180 fps= 10 q=-1.0 size=N/A time=00:00:17.39 bitrate=N/A    frame=  715 fps= 10 q=-1.0 size=N/A time=00:01:10.90 bitrate=N/A    frame=  185 fps= 10 q=-1.0 size=N/A time=00:00:17.90 bitrate=N/A    frame=  720 fps= 10 q=-1.0 size=N/A time=00:01:11.40 bitrate=N/A    frame=  190 fps= 10 q=-1.0 size=N/A time=00:00:18.39 bitrate=N/A    frame=  725 fps= 10 q=-1.0 size=N/A time=00:01:11.90 bitrate=N/A    frame=  195 fps= 10 q=-1.0 size=N/A time=00:00:18.90 bitrate=N/A    frame=  730 fps= 10 q=-1.0 size=N/A time=00:01:12.40 bitrate=N/A    frame=  200 fps= 10 q=-1.0 size=N/A time=00:00:19.39 bitrate=N/A    frame=  735 fps= 10 q=-1.0 size=N/A time=00:01:12.90 bitrate=N/A    frame=  205 fps= 10 q=-1.0 size=N/A time=00:00:19.90 bitrate=N/A    frame=  740 fps= 10 q=-1.0 size=N/A time=00:01:13.40 bitrate=N/A    frame=  210 fps= 10 q=-1.0 size=N/A time=00:00:20.40 bitrate=N/A    frame=  745 fps= 10 q=-1.0 size=N/A time=00:01:13.90 bitrate=N/A    frame=  215 fps= 10 q=-1.0 size=N/A time=00:00:20.90 bitrate=N/A    frame=  750 fps= 10 q=-1.0 size=N/A time=00:01:14.40 bitrate=N/A    frame=  220 fps= 10 q=-1.0 size=N/A time=00:00:21.40 bitrate=N/A    frame=  755 fps= 10 q=-1.0 size=N/A time=00:01:14.90 bitrate=N/A    2025/07/15 15:51:45 INF [path Gloves] runOnDemand command stopped: not needed by anyone
+frame=  224 fps= 10 q=-1.0 Lsize=N/A time=00:00:21.80 bitrate=N/A    
+video:11623kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Exiting normally, received signal 2.
+2025/07/15 15:51:45 INF [RTSP] [session 05f98968] destroyed: torn down by 127.0.0.1:56762
+2025/07/15 15:51:45 INF [RTSP] [conn 127.0.0.1:56762] closed: EOF
+frame=  760 fps= 10 q=-1.0 size=N/A time=00:01:15.40 bitrate=N/A    frame=  765 fps= 10 q=-1.0 size=N/A time=00:01:15.90 bitrate=N/A    frame=  771 fps= 10 q=-1.0 size=N/A time=00:01:16.50 bitrate=N/A    frame=  776 fps= 10 q=-1.0 size=N/A time=00:01:17.00 bitrate=N/A    frame=  781 fps= 10 q=-1.0 size=N/A time=00:01:17.50 bitrate=N/A    frame=  786 fps= 10 q=-1.0 size=N/A time=00:01:18.00 bitrate=N/A    frame=  791 fps= 10 q=-1.0 size=N/A time=00:01:18.50 bitrate=N/A    frame=  796 fps= 10 q=-1.0 size=N/A time=00:01:19.00 bitrate=N/A    frame=  801 fps= 10 q=-1.0 size=N/A time=00:01:19.50 bitrate=N/A    frame=  806 fps= 10 q=-1.0 size=N/A time=00:01:20.00 bitrate=N/A    frame=  811 fps= 10 q=-1.0 size=N/A time=00:01:20.50 bitrate=N/A    frame=  816 fps= 10 q=-1.0 size=N/A time=00:01:21.00 bitrate=N/A    frame=  821 fps= 10 q=-1.0 size=N/A time=00:01:21.50 bitrate=N/A    frame=  826 fps= 10 q=-1.0 size=N/A time=00:01:22.00 bitrate=N/A    frame=  831 fps= 10 q=-1.0 size=N/A time=00:01:22.50 bitrate=N/A    frame=  836 fps= 10 q=-1.0 size=N/A time=00:01:23.00 bitrate=N/A    frame=  841 fps= 10 q=-1.0 size=N/A time=00:01:23.50 bitrate=N/A    frame=  846 fps= 10 q=-1.0 size=N/A time=00:01:24.00 bitrate=N/A    frame=  851 fps= 10 q=-1.0 size=N/A time=00:01:24.50 bitrate=N/A    frame=  856 fps= 10 q=-1.0 size=N/A time=00:01:25.00 bitrate=N/A    frame=  862 fps= 10 q=-1.0 size=N/A time=00:01:25.60 bitrate=N/A    frame=  867 fps= 10 q=-1.0 size=N/A time=00:01:26.10 bitrate=N/A    frame=  872 fps= 10 q=-1.0 size=N/A time=00:01:26.60 bitrate=N/A    frame=  877 fps= 10 q=-1.0 size=N/A time=00:01:27.10 bitrate=N/A    frame=  882 fps= 10 q=-1.0 size=N/A time=00:01:27.60 bitrate=N/A    frame=  887 fps= 10 q=-1.0 size=N/A time=00:01:28.10 bitrate=N/A    frame=  892 fps= 10 q=-1.0 size=N/A time=00:01:28.60 bitrate=N/A    frame=  897 fps= 10 q=-1.0 size=N/A time=00:01:29.10 bitrate=N/A    frame=  902 fps= 10 q=-1.0 size=N/A time=00:01:29.60 bitrate=N/A    frame=  907 fps= 10 q=-1.0 size=N/A time=00:01:30.10 bitrate=N/A    frame=  912 fps= 10 q=-1.0 size=N/A time=00:01:30.60 bitrate=N/A    frame=  917 fps= 10 q=-1.0 size=N/A time=00:01:31.10 bitrate=N/A    frame=  922 fps= 10 q=-1.0 size=N/A time=00:01:31.60 bitrate=N/A    frame=  927 fps= 10 q=-1.0 size=N/A time=00:01:32.10 bitrate=N/A    frame=  932 fps= 10 q=-1.0 size=N/A time=00:01:32.60 bitrate=N/A    frame=  937 fps= 10 q=-1.0 size=N/A time=00:01:33.10 bitrate=N/A    frame=  942 fps= 10 q=-1.0 size=N/A time=00:01:33.60 bitrate=N/A    frame=  947 fps= 10 q=-1.0 size=N/A time=00:01:34.10 bitrate=N/A    frame=  952 fps= 10 q=-1.0 size=N/A time=00:01:34.60 bitrate=N/A    frame=  958 fps= 10 q=-1.0 size=N/A time=00:01:35.20 bitrate=N/A    frame=  963 fps= 10 q=-1.0 size=N/A time=00:01:35.70 bitrate=N/A    frame=  968 fps= 10 q=-1.0 size=N/A time=00:01:36.20 bitrate=N/A    frame=  973 fps= 10 q=-1.0 size=N/A time=00:01:36.70 bitrate=N/A    frame=  978 fps= 10 q=-1.0 size=N/A time=00:01:37.20 bitrate=N/A    frame=  983 fps= 10 q=-1.0 size=N/A time=00:01:37.70 bitrate=N/A    frame=  988 fps= 10 q=-1.0 size=N/A time=00:01:38.20 bitrate=N/A    frame=  993 fps= 10 q=-1.0 size=N/A time=00:01:38.70 bitrate=N/A    frame=  998 fps= 10 q=-1.0 size=N/A time=00:01:39.20 bitrate=N/A    frame= 1003 fps= 10 q=-1.0 size=N/A time=00:01:39.70 bitrate=N/A    frame= 1008 fps= 10 q=-1.0 size=N/A time=00:01:40.20 bitrate=N/A    frame= 1013 fps= 10 q=-1.0 size=N/A time=00:01:40.70 bitrate=N/A    frame= 1018 fps= 10 q=-1.0 size=N/A time=00:01:41.20 bitrate=N/A    frame= 1023 fps= 10 q=-1.0 size=N/A time=00:01:41.70 bitrate=N/A    frame= 1028 fps= 10 q=-1.0 size=N/A time=00:01:42.20 bitrate=N/A    frame= 1033 fps= 10 q=-1.0 size=N/A time=00:01:42.70 bitrate=N/A    frame= 1038 fps= 10 q=-1.0 size=N/A time=00:01:43.20 bitrate=N/A    frame= 1043 fps= 10 q=-1.0 size=N/A time=00:01:43.70 bitrate=N/A    frame= 1048 fps= 10 q=-1.0 size=N/A time=00:01:44.20 bitrate=N/A    frame= 1053 fps= 10 q=-1.0 size=N/A time=00:01:44.70 bitrate=N/A    frame= 1059 fps= 10 q=-1.0 size=N/A time=00:01:45.30 bitrate=N/A    frame= 1064 fps= 10 q=-1.0 size=N/A time=00:01:45.80 bitrate=N/A    frame= 1069 fps= 10 q=-1.0 size=N/A time=00:01:46.30 bitrate=N/A    frame= 1074 fps= 10 q=-1.0 size=N/A time=00:01:46.80 bitrate=N/A    frame= 1079 fps= 10 q=-1.0 size=N/A time=00:01:47.30 bitrate=N/A    frame= 1084 fps= 10 q=-1.0 size=N/A time=00:01:47.80 bitrate=N/A    frame= 1089 fps= 10 q=-1.0 size=N/A time=00:01:48.30 bitrate=N/A    frame= 1094 fps= 10 q=-1.0 size=N/A time=00:01:48.80 bitrate=N/A    frame= 1099 fps= 10 q=-1.0 size=N/A time=00:01:49.30 bitrate=N/A    frame= 1104 fps= 10 q=-1.0 size=N/A time=00:01:49.80 bitrate=N/A    frame= 1109 fps= 10 q=-1.0 size=N/A time=00:01:50.30 bitrate=N/A    frame= 1114 fps= 10 q=-1.0 size=N/A time=00:01:50.80 bitrate=N/A    frame= 1119 fps= 10 q=-1.0 size=N/A time=00:01:51.30 bitrate=N/A    frame= 1124 fps= 10 q=-1.0 size=N/A time=00:01:51.80 bitrate=N/A    frame= 1129 fps= 10 q=-1.0 size=N/A time=00:01:52.30 bitrate=N/A    frame= 1134 fps= 10 q=-1.0 size=N/A time=00:01:52.80 bitrate=N/A    frame= 1139 fps= 10 q=-1.0 size=N/A time=00:01:53.30 bitrate=N/A    frame= 1144 fps= 10 q=-1.0 size=N/A time=00:01:53.79 bitrate=N/A    frame= 1149 fps= 10 q=-1.0 size=N/A time=00:01:54.29 bitrate=N/A    frame= 1154 fps= 10 q=-1.0 size=N/A time=00:01:54.80 bitrate=N/A    frame= 1160 fps= 10 q=-1.0 size=N/A time=00:01:55.40 bitrate=N/A    frame= 1165 fps= 10 q=-1.0 size=N/A time=00:01:55.90 bitrate=N/A    frame= 1170 fps= 10 q=-1.0 size=N/A time=00:01:56.40 bitrate=N/A    frame= 1175 fps= 10 q=-1.0 size=N/A time=00:01:56.90 bitrate=N/A    frame= 1180 fps= 10 q=-1.0 size=N/A time=00:01:57.40 bitrate=N/A    frame= 1185 fps= 10 q=-1.0 size=N/A time=00:01:57.90 bitrate=N/A    frame= 1190 fps= 10 q=-1.0 size=N/A time=00:01:58.40 bitrate=N/A    frame= 1195 fps= 10 q=-1.0 size=N/A time=00:01:58.90 bitrate=N/A    frame= 1200 fps= 10 q=-1.0 size=N/A time=00:01:59.40 bitrate=N/A    frame= 1205 fps= 10 q=-1.0 size=N/A time=00:01:59.90 bitrate=N/A    frame= 1210 fps= 10 q=-1.0 size=N/A time=00:02:00.40 bitrate=N/A    frame= 1215 fps= 10 q=-1.0 size=N/A time=00:02:00.90 bitrate=N/A    frame= 1220 fps= 10 q=-1.0 size=N/A time=00:02:01.40 bitrate=N/A    frame= 1225 fps= 10 q=-1.0 size=N/A time=00:02:01.90 bitrate=N/A    frame= 1230 fps= 10 q=-1.0 size=N/A time=00:02:02.40 bitrate=N/A    frame= 1235 fps= 10 q=-1.0 size=N/A time=00:02:02.90 bitrate=N/A    frame= 1240 fps= 10 q=-1.0 size=N/A time=00:02:03.40 bitrate=N/A    frame= 1245 fps= 10 q=-1.0 size=N/A time=00:02:03.90 bitrate=N/A    frame= 1250 fps= 10 q=-1.0 size=N/A time=00:02:04.40 bitrate=N/A    frame= 1255 fps= 10 q=-1.0 size=N/A time=00:02:04.90 bitrate=N/A    frame= 1260 fps= 10 q=-1.0 size=N/A time=00:02:05.40 bitrate=N/A    frame= 1266 fps= 10 q=-1.0 size=N/A time=00:02:06.00 bitrate=N/A    frame= 1271 fps= 10 q=-1.0 size=N/A time=00:02:06.50 bitrate=N/A    frame= 1276 fps= 10 q=-1.0 size=N/A time=00:02:07.00 bitrate=N/A    frame= 1281 fps= 10 q=-1.0 size=N/A time=00:02:07.50 bitrate=N/A    frame= 1286 fps= 10 q=-1.0 size=N/A time=00:02:08.00 bitrate=N/A    frame= 1291 fps= 10 q=-1.0 size=N/A time=00:02:08.50 bitrate=N/A    frame= 1296 fps= 10 q=-1.0 size=N/A time=00:02:09.00 bitrate=N/A    frame= 1301 fps= 10 q=-1.0 size=N/A time=00:02:09.50 bitrate=N/A    frame= 1306 fps= 10 q=-1.0 size=N/A time=00:02:10.00 bitrate=N/A    frame= 1311 fps= 10 q=-1.0 size=N/A time=00:02:10.50 bitrate=N/A    frame= 1316 fps= 10 q=-1.0 size=N/A time=00:02:11.00 bitrate=N/A    frame= 1321 fps= 10 q=-1.0 size=N/A time=00:02:11.50 bitrate=N/A    frame= 1326 fps= 10 q=-1.0 size=N/A time=00:02:12.00 bitrate=N/A    frame= 1331 fps= 10 q=-1.0 size=N/A time=00:02:12.50 bitrate=N/A    frame= 1336 fps= 10 q=-1.0 size=N/A time=00:02:13.00 bitrate=N/A    frame= 1341 fps= 10 q=-1.0 size=N/A time=00:02:13.50 bitrate=N/A    frame= 1346 fps= 10 q=-1.0 size=N/A time=00:02:14.00 bitrate=N/A    frame= 1351 fps= 10 q=-1.0 size=N/A time=00:02:14.50 bitrate=N/A    frame= 1356 fps= 10 q=-1.0 size=N/A time=00:02:15.00 bitrate=N/A    frame= 1361 fps= 10 q=-1.0 size=N/A time=00:02:15.50 bitrate=N/A    frame= 1366 fps= 10 q=-1.0 size=N/A time=00:02:16.00 bitrate=N/A    frame= 1371 fps= 10 q=-1.0 size=N/A time=00:02:16.50 bitrate=N/A    frame= 1377 fps= 10 q=-1.0 size=N/A time=00:02:17.10 bitrate=N/A    frame= 1382 fps= 10 q=-1.0 size=N/A time=00:02:17.60 bitrate=N/A    frame= 1387 fps= 10 q=-1.0 size=N/A time=00:02:18.10 bitrate=N/A    frame= 1392 fps= 10 q=-1.0 size=N/A time=00:02:18.60 bitrate=N/A    frame= 1397 fps= 10 q=-1.0 size=N/A time=00:02:19.10 bitrate=N/A    frame= 1402 fps= 10 q=-1.0 size=N/A time=00:02:19.60 bitrate=N/A    frame= 1407 fps= 10 q=-1.0 size=N/A time=00:02:20.10 bitrate=N/A    frame= 1412 fps= 10 q=-1.0 size=N/A time=00:02:20.60 bitrate=N/A    frame= 1417 fps= 10 q=-1.0 size=N/A time=00:02:21.10 bitrate=N/A    frame= 1422 fps= 10 q=-1.0 size=N/A time=00:02:21.60 bitrate=N/A    frame= 1427 fps= 10 q=-1.0 size=N/A time=00:02:22.10 bitrate=N/A    frame= 1432 fps= 10 q=-1.0 size=N/A time=00:02:22.60 bitrate=N/A    frame= 1437 fps= 10 q=-1.0 size=N/A time=00:02:23.10 bitrate=N/A    frame= 1442 fps= 10 q=-1.0 size=N/A time=00:02:23.60 bitrate=N/A    frame= 1447 fps= 10 q=-1.0 size=N/A time=00:02:24.10 bitrate=N/A    frame= 1452 fps= 10 q=-1.0 size=N/A time=00:02:24.60 bitrate=N/A    frame= 1457 fps= 10 q=-1.0 size=N/A time=00:02:25.10 bitrate=N/A    frame= 1462 fps= 10 q=-1.0 size=N/A time=00:02:25.60 bitrate=N/A    frame= 1467 fps= 10 q=-1.0 size=N/A time=00:02:26.10 bitrate=N/A    frame= 1472 fps= 10 q=-1.0 size=N/A time=00:02:26.60 bitrate=N/A    frame= 1477 fps= 10 q=-1.0 size=N/A time=00:02:27.10 bitrate=N/A    frame= 1483 fps= 10 q=-1.0 size=N/A time=00:02:27.70 bitrate=N/A    frame= 1488 fps= 10 q=-1.0 size=N/A time=00:02:28.20 bitrate=N/A    frame= 1493 fps= 10 q=-1.0 size=N/A time=00:02:28.70 bitrate=N/A    frame= 1498 fps= 10 q=-1.0 size=N/A time=00:02:29.20 bitrate=N/A    frame= 1503 fps= 10 q=-1.0 size=N/A time=00:02:29.70 bitrate=N/A    frame= 1508 fps= 10 q=-1.0 size=N/A time=00:02:30.20 bitrate=N/A    frame= 1513 fps= 10 q=-1.0 size=N/A time=00:02:30.70 bitrate=N/A    frame= 1518 fps= 10 q=-1.0 size=N/A time=00:02:31.20 bitrate=N/A    frame= 1523 fps= 10 q=-1.0 size=N/A time=00:02:31.70 bitrate=N/A    frame= 1528 fps= 10 q=-1.0 size=N/A time=00:02:32.20 bitrate=N/A    frame= 1533 fps= 10 q=-1.0 size=N/A time=00:02:32.70 bitrate=N/A    frame= 1538 fps= 10 q=-1.0 size=N/A time=00:02:33.20 bitrate=N/A    frame= 1543 fps= 10 q=-1.0 size=N/A time=00:02:33.70 bitrate=N/A    frame= 1548 fps= 10 q=-1.0 size=N/A time=00:02:34.20 bitrate=N/A    frame= 1553 fps= 10 q=-1.0 size=N/A time=00:02:34.70 bitrate=N/A    frame= 1558 fps= 10 q=-1.0 size=N/A time=00:02:35.20 bitrate=N/A    frame= 1563 fps= 10 q=-1.0 size=N/A time=00:02:35.70 bitrate=N/A    frame= 1568 fps= 10 q=-1.0 size=N/A time=00:02:36.20 bitrate=N/A    frame= 1573 fps= 10 q=-1.0 size=N/A time=00:02:36.70 bitrate=N/A    frame= 1578 fps= 10 q=-1.0 size=N/A time=00:02:37.20 bitrate=N/A    frame= 1583 fps= 10 q=-1.0 size=N/A time=00:02:37.70 bitrate=N/A    frame= 1589 fps= 10 q=-1.0 size=N/A time=00:02:38.30 bitrate=N/A    frame= 1594 fps= 10 q=-1.0 size=N/A time=00:02:38.80 bitrate=N/A    frame= 1599 fps= 10 q=-1.0 size=N/A time=00:02:39.30 bitrate=N/A    frame= 1604 fps= 10 q=-1.0 size=N/A time=00:02:39.80 bitrate=N/A    frame= 1609 fps= 10 q=-1.0 size=N/A time=00:02:40.30 bitrate=N/A    frame= 1614 fps= 10 q=-1.0 size=N/A time=00:02:40.80 bitrate=N/A    frame= 1619 fps= 10 q=-1.0 size=N/A time=00:02:41.30 bitrate=N/A    frame= 1624 fps= 10 q=-1.0 size=N/A time=00:02:41.80 bitrate=N/A    frame= 1629 fps= 10 q=-1.0 size=N/A time=00:02:42.30 bitrate=N/A    frame= 1634 fps= 10 q=-1.0 size=N/A time=00:02:42.80 bitrate=N/A    frame= 1639 fps= 10 q=-1.0 size=N/A time=00:02:43.30 bitrate=N/A    frame= 1644 fps= 10 q=-1.0 size=N/A time=00:02:43.80 bitrate=N/A    frame= 1649 fps= 10 q=-1.0 size=N/A time=00:02:44.30 bitrate=N/A    frame= 1654 fps= 10 q=-1.0 size=N/A time=00:02:44.80 bitrate=N/A    frame= 1659 fps= 10 q=-1.0 size=N/A time=00:02:45.30 bitrate=N/A    frame= 1664 fps= 10 q=-1.0 size=N/A time=00:02:45.80 bitrate=N/A    frame= 1669 fps= 10 q=-1.0 size=N/A time=00:02:46.30 bitrate=N/A    frame= 1674 fps= 10 q=-1.0 size=N/A time=00:02:46.80 bitrate=N/A    frame= 1679 fps= 10 q=-1.0 size=N/A time=00:02:47.30 bitrate=N/A    frame= 1684 fps= 10 q=-1.0 size=N/A time=00:02:47.80 bitrate=N/A    frame= 1690 fps= 10 q=-1.0 size=N/A time=00:02:48.40 bitrate=N/A    frame= 1695 fps= 10 q=-1.0 size=N/A time=00:02:48.90 bitrate=N/A    frame= 1700 fps= 10 q=-1.0 size=N/A time=00:02:49.40 bitrate=N/A    frame= 1705 fps= 10 q=-1.0 size=N/A time=00:02:49.90 bitrate=N/A    frame= 1710 fps= 10 q=-1.0 size=N/A time=00:02:50.40 bitrate=N/A    frame= 1715 fps= 10 q=-1.0 size=N/A time=00:02:50.90 bitrate=N/A    frame= 1720 fps= 10 q=-1.0 size=N/A time=00:02:51.40 bitrate=N/A    frame= 1725 fps= 10 q=-1.0 size=N/A time=00:02:51.90 bitrate=N/A    frame= 1730 fps= 10 q=-1.0 size=N/A time=00:02:52.40 bitrate=N/A    frame= 1735 fps= 10 q=-1.0 size=N/A time=00:02:52.90 bitrate=N/A    frame= 1740 fps= 10 q=-1.0 size=N/A time=00:02:53.40 bitrate=N/A    frame= 1745 fps= 10 q=-1.0 size=N/A time=00:02:53.90 bitrate=N/A    frame= 1750 fps= 10 q=-1.0 size=N/A time=00:02:54.40 bitrate=N/A    frame= 1755 fps= 10 q=-1.0 size=N/A time=00:02:54.90 bitrate=N/A    frame= 1760 fps= 10 q=-1.0 size=N/A time=00:02:55.40 bitrate=N/A    frame= 1765 fps= 10 q=-1.0 size=N/A time=00:02:55.90 bitrate=N/A    frame= 1770 fps= 10 q=-1.0 size=N/A time=00:02:56.40 bitrate=N/A    frame= 1775 fps= 10 q=-1.0 size=N/A time=00:02:56.90 bitrate=N/A    frame= 1780 fps= 10 q=-1.0 size=N/A time=00:02:57.40 bitrate=N/A    frame= 1786 fps= 10 q=-1.0 size=N/A time=00:02:58.00 bitrate=N/A    frame= 1791 fps= 10 q=-1.0 size=N/A time=00:02:58.50 bitrate=N/A    frame= 1796 fps= 10 q=-1.0 size=N/A time=00:02:59.00 bitrate=N/A    frame= 1801 fps= 10 q=-1.0 size=N/A time=00:02:59.50 bitrate=N/A    frame= 1806 fps= 10 q=-1.0 size=N/A time=00:03:00.00 bitrate=N/A    frame= 1811 fps= 10 q=-1.0 size=N/A time=00:03:00.50 bitrate=N/A    frame= 1816 fps= 10 q=-1.0 size=N/A time=00:03:01.00 bitrate=N/A    frame= 1821 fps= 10 q=-1.0 size=N/A time=00:03:01.50 bitrate=N/A    frame= 1826 fps= 10 q=-1.0 size=N/A time=00:03:02.00 bitrate=N/A    frame= 1831 fps= 10 q=-1.0 size=N/A time=00:03:02.50 bitrate=N/A    frame= 1836 fps= 10 q=-1.0 size=N/A time=00:03:03.00 bitrate=N/A    frame= 1841 fps= 10 q=-1.0 size=N/A time=00:03:03.50 bitrate=N/A    frame= 1846 fps= 10 q=-1.0 size=N/A time=00:03:04.00 bitrate=N/A    frame= 1851 fps= 10 q=-1.0 size=N/A time=00:03:04.50 bitrate=N/A    frame= 1856 fps= 10 q=-1.0 size=N/A time=00:03:05.00 bitrate=N/A    frame= 1861 fps= 10 q=-1.0 size=N/A time=00:03:05.50 bitrate=N/A    frame= 1866 fps= 10 q=-1.0 size=N/A time=00:03:06.00 bitrate=N/A    frame= 1868 fps= 10 q=-1.0 Lsize=N/A time=00:03:06.20 bitrate=N/A    
+video:95529kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+2025/07/15 15:53:36 INF [RTSP] [session 1cd0e7a5] destroyed: torn down by 127.0.0.1:56758
+2025/07/15 15:53:36 INF [RTSP] [conn 172.16.1.147:58258] closed: terminated
+2025/07/15 15:53:36 INF [RTSP] [conn 127.0.0.1:56758] closed: EOF
+2025/07/15 15:53:36 INF [RTSP] [session 76768599] destroyed: terminated
+2025/07/15 15:53:36 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:53:40 INF [RTSP] [conn 172.16.1.147:58268] opened
+ffmpeg version 2.8.8 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/opt/ffmpeg-2.8.8_x264_v142 --enable-ffplay --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-network --enable-protocol=tcp --enable-demuxer=rtsp --enable-decoder=mjpeg --enable-decoder=h264 --disable-pthreads --disable-asm --extra-cflags=-fPIC --enable-debug --extra-cflags=-g --disable-optimizations --disable-mmx --disable-stripping --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+[h264 @ 0x5573a6055e40] Warning: not compiled with thread support, using thread emulation
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/Data2/150_PPE_03.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf58.76.100
+  Duration: 00:03:06.20, start: 0.000000, bitrate: 4203 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuvj420p(pc, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[rtsp @ 0x5573a6056fe0] Codec for stream 0 does not use global headers but container format requires global headers
+2025/07/15 15:53:42 INF [RTSP] [conn 127.0.0.1:56764] opened
+2025/07/15 15:53:42 INF [RTSP] [session 8a4ebf2f] created by 127.0.0.1:56764
+2025/07/15 15:53:42 INF [RTSP] [session 8a4ebf2f] is publishing to path 'PPE3', 1 track (H264)
+Output #0, rtsp, to 'rtsp://0.0.0.0:8554/PPE3':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf56.40.101
+    Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuvj420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 10 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+2025/07/15 15:53:42 INF [RTSP] [session c8f9b78f] created by 172.16.1.147:58268
+2025/07/15 15:53:42 INF [RTSP] [session c8f9b78f] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   13 fps=0.0 q=-1.0 size=N/A time=00:00:00.70 bitrate=N/A    frame=   18 fps= 18 q=-1.0 size=N/A time=00:00:01.20 bitrate=N/A    frame=   23 fps= 15 q=-1.0 size=N/A time=00:00:01.70 bitrate=N/A    frame=   28 fps= 14 q=-1.0 size=N/A time=00:00:02.20 bitrate=N/A    frame=   33 fps= 13 q=-1.0 size=N/A time=00:00:02.70 bitrate=N/A    frame=   38 fps= 13 q=-1.0 size=N/A time=00:00:03.19 bitrate=N/A    2025/07/15 15:53:45 INF [RTSP] [session c8f9b78f] destroyed: torn down by 172.16.1.147:58268
+2025/07/15 15:53:45 INF [RTSP] [conn 172.16.1.147:58268] closed: EOF
+2025/07/15 15:53:45 INF [RTSP] [conn 172.16.1.147:58270] opened
+2025/07/15 15:53:45 INF [RTSP] [session d3725353] created by 172.16.1.147:58270
+2025/07/15 15:53:45 INF [RTSP] [session d3725353] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   43 fps= 12 q=-1.0 size=N/A time=00:00:03.70 bitrate=N/A    frame=   48 fps= 12 q=-1.0 size=N/A time=00:00:04.20 bitrate=N/A    frame=   53 fps= 12 q=-1.0 size=N/A time=00:00:04.70 bitrate=N/A    frame=   58 fps= 11 q=-1.0 size=N/A time=00:00:05.20 bitrate=N/A    frame=   63 fps= 11 q=-1.0 size=N/A time=00:00:05.70 bitrate=N/A    frame=   68 fps= 11 q=-1.0 size=N/A time=00:00:06.20 bitrate=N/A    frame=   73 fps= 11 q=-1.0 size=N/A time=00:00:06.70 bitrate=N/A    frame=   78 fps= 11 q=-1.0 size=N/A time=00:00:07.19 bitrate=N/A    frame=   83 fps= 11 q=-1.0 size=N/A time=00:00:07.70 bitrate=N/A    frame=   88 fps= 11 q=-1.0 size=N/A time=00:00:08.20 bitrate=N/A    frame=   93 fps= 11 q=-1.0 size=N/A time=00:00:08.70 bitrate=N/A    frame=   98 fps= 11 q=-1.0 size=N/A time=00:00:09.20 bitrate=N/A    frame=  103 fps= 11 q=-1.0 size=N/A time=00:00:09.70 bitrate=N/A    frame=  109 fps= 11 q=-1.0 size=N/A time=00:00:10.30 bitrate=N/A    frame=  114 fps= 11 q=-1.0 size=N/A time=00:00:10.80 bitrate=N/A    frame=  119 fps= 11 q=-1.0 size=N/A time=00:00:11.30 bitrate=N/A    frame=  124 fps= 11 q=-1.0 size=N/A time=00:00:11.80 bitrate=N/A    frame=  129 fps= 11 q=-1.0 size=N/A time=00:00:12.30 bitrate=N/A    frame=  134 fps= 11 q=-1.0 size=N/A time=00:00:12.80 bitrate=N/A    frame=  139 fps= 11 q=-1.0 size=N/A time=00:00:13.30 bitrate=N/A    frame=  144 fps= 11 q=-1.0 size=N/A time=00:00:13.80 bitrate=N/A    frame=  149 fps= 11 q=-1.0 size=N/A time=00:00:14.30 bitrate=N/A    frame=  154 fps= 11 q=-1.0 size=N/A time=00:00:14.80 bitrate=N/A    frame=  159 fps= 10 q=-1.0 size=N/A time=00:00:15.30 bitrate=N/A    frame=  164 fps= 10 q=-1.0 size=N/A time=00:00:15.80 bitrate=N/A    frame=  169 fps= 10 q=-1.0 size=N/A time=00:00:16.30 bitrate=N/A    frame=  174 fps= 10 q=-1.0 size=N/A time=00:00:16.80 bitrate=N/A    frame=  179 fps= 10 q=-1.0 size=N/A time=00:00:17.30 bitrate=N/A    frame=  184 fps= 10 q=-1.0 size=N/A time=00:00:17.80 bitrate=N/A    frame=  189 fps= 10 q=-1.0 size=N/A time=00:00:18.30 bitrate=N/A    frame=  194 fps= 10 q=-1.0 size=N/A time=00:00:18.80 bitrate=N/A    frame=  199 fps= 10 q=-1.0 size=N/A time=00:00:19.30 bitrate=N/A    frame=  204 fps= 10 q=-1.0 size=N/A time=00:00:19.80 bitrate=N/A    frame=  210 fps= 10 q=-1.0 size=N/A time=00:00:20.40 bitrate=N/A    frame=  215 fps= 10 q=-1.0 size=N/A time=00:00:20.90 bitrate=N/A    frame=  220 fps= 10 q=-1.0 size=N/A time=00:00:21.40 bitrate=N/A    frame=  225 fps= 10 q=-1.0 size=N/A time=00:00:21.90 bitrate=N/A    frame=  230 fps= 10 q=-1.0 size=N/A time=00:00:22.40 bitrate=N/A    frame=  235 fps= 10 q=-1.0 size=N/A time=00:00:22.90 bitrate=N/A    frame=  240 fps= 10 q=-1.0 size=N/A time=00:00:23.40 bitrate=N/A    frame=  245 fps= 10 q=-1.0 size=N/A time=00:00:23.90 bitrate=N/A    frame=  250 fps= 10 q=-1.0 size=N/A time=00:00:24.40 bitrate=N/A    frame=  255 fps= 10 q=-1.0 size=N/A time=00:00:24.90 bitrate=N/A    frame=  260 fps= 10 q=-1.0 size=N/A time=00:00:25.40 bitrate=N/A    frame=  265 fps= 10 q=-1.0 size=N/A time=00:00:25.90 bitrate=N/A    frame=  270 fps= 10 q=-1.0 size=N/A time=00:00:26.40 bitrate=N/A    frame=  275 fps= 10 q=-1.0 size=N/A time=00:00:26.90 bitrate=N/A    frame=  280 fps= 10 q=-1.0 size=N/A time=00:00:27.40 bitrate=N/A    frame=  285 fps= 10 q=-1.0 size=N/A time=00:00:27.90 bitrate=N/A    frame=  290 fps= 10 q=-1.0 size=N/A time=00:00:28.40 bitrate=N/A    frame=  295 fps= 10 q=-1.0 size=N/A time=00:00:28.90 bitrate=N/A    frame=  301 fps= 10 q=-1.0 size=N/A time=00:00:29.50 bitrate=N/A    frame=  306 fps= 10 q=-1.0 size=N/A time=00:00:30.00 bitrate=N/A    frame=  311 fps= 10 q=-1.0 size=N/A time=00:00:30.50 bitrate=N/A    frame=  316 fps= 10 q=-1.0 size=N/A time=00:00:31.00 bitrate=N/A    frame=  321 fps= 10 q=-1.0 size=N/A time=00:00:31.50 bitrate=N/A    frame=  326 fps= 10 q=-1.0 size=N/A time=00:00:32.00 bitrate=N/A    frame=  331 fps= 10 q=-1.0 size=N/A time=00:00:32.50 bitrate=N/A    frame=  336 fps= 10 q=-1.0 size=N/A time=00:00:33.00 bitrate=N/A    frame=  341 fps= 10 q=-1.0 size=N/A time=00:00:33.50 bitrate=N/A    frame=  346 fps= 10 q=-1.0 size=N/A time=00:00:34.00 bitrate=N/A    frame=  351 fps= 10 q=-1.0 size=N/A time=00:00:34.50 bitrate=N/A    frame=  356 fps= 10 q=-1.0 size=N/A time=00:00:35.00 bitrate=N/A    frame=  361 fps= 10 q=-1.0 size=N/A time=00:00:35.50 bitrate=N/A    frame=  366 fps= 10 q=-1.0 size=N/A time=00:00:36.00 bitrate=N/A    frame=  371 fps= 10 q=-1.0 size=N/A time=00:00:36.50 bitrate=N/A    frame=  376 fps= 10 q=-1.0 size=N/A time=00:00:37.00 bitrate=N/A    frame=  381 fps= 10 q=-1.0 size=N/A time=00:00:37.50 bitrate=N/A    frame=  386 fps= 10 q=-1.0 size=N/A time=00:00:38.00 bitrate=N/A    frame=  391 fps= 10 q=-1.0 size=N/A time=00:00:38.50 bitrate=N/A    frame=  396 fps= 10 q=-1.0 size=N/A time=00:00:39.00 bitrate=N/A    frame=  402 fps= 10 q=-1.0 size=N/A time=00:00:39.60 bitrate=N/A    frame=  407 fps= 10 q=-1.0 size=N/A time=00:00:40.10 bitrate=N/A    frame=  412 fps= 10 q=-1.0 size=N/A time=00:00:40.60 bitrate=N/A    frame=  417 fps= 10 q=-1.0 size=N/A time=00:00:41.10 bitrate=N/A    frame=  422 fps= 10 q=-1.0 size=N/A time=00:00:41.60 bitrate=N/A    frame=  427 fps= 10 q=-1.0 size=N/A time=00:00:42.10 bitrate=N/A    frame=  432 fps= 10 q=-1.0 size=N/A time=00:00:42.60 bitrate=N/A    frame=  437 fps= 10 q=-1.0 size=N/A time=00:00:43.10 bitrate=N/A    frame=  442 fps= 10 q=-1.0 size=N/A time=00:00:43.60 bitrate=N/A    frame=  447 fps= 10 q=-1.0 size=N/A time=00:00:44.10 bitrate=N/A    frame=  452 fps= 10 q=-1.0 size=N/A time=00:00:44.60 bitrate=N/A    frame=  457 fps= 10 q=-1.0 size=N/A time=00:00:45.10 bitrate=N/A    frame=  462 fps= 10 q=-1.0 size=N/A time=00:00:45.60 bitrate=N/A    frame=  467 fps= 10 q=-1.0 size=N/A time=00:00:46.10 bitrate=N/A    frame=  472 fps= 10 q=-1.0 size=N/A time=00:00:46.60 bitrate=N/A    frame=  477 fps= 10 q=-1.0 size=N/A time=00:00:47.10 bitrate=N/A    frame=  482 fps= 10 q=-1.0 size=N/A time=00:00:47.60 bitrate=N/A    frame=  487 fps= 10 q=-1.0 size=N/A time=00:00:48.10 bitrate=N/A    frame=  492 fps= 10 q=-1.0 size=N/A time=00:00:48.60 bitrate=N/A    frame=  497 fps= 10 q=-1.0 size=N/A time=00:00:49.10 bitrate=N/A    frame=  503 fps= 10 q=-1.0 size=N/A time=00:00:49.70 bitrate=N/A    frame=  508 fps= 10 q=-1.0 size=N/A time=00:00:50.20 bitrate=N/A    frame=  513 fps= 10 q=-1.0 size=N/A time=00:00:50.70 bitrate=N/A    frame=  518 fps= 10 q=-1.0 size=N/A time=00:00:51.20 bitrate=N/A    frame=  523 fps= 10 q=-1.0 size=N/A time=00:00:51.70 bitrate=N/A    frame=  528 fps= 10 q=-1.0 size=N/A time=00:00:52.20 bitrate=N/A    frame=  533 fps= 10 q=-1.0 size=N/A time=00:00:52.69 bitrate=N/A    frame=  538 fps= 10 q=-1.0 size=N/A time=00:00:53.19 bitrate=N/A    frame=  543 fps= 10 q=-1.0 size=N/A time=00:00:53.70 bitrate=N/A    frame=  548 fps= 10 q=-1.0 size=N/A time=00:00:54.20 bitrate=N/A    frame=  553 fps= 10 q=-1.0 size=N/A time=00:00:54.70 bitrate=N/A    frame=  558 fps= 10 q=-1.0 size=N/A time=00:00:55.20 bitrate=N/A    frame=  563 fps= 10 q=-1.0 size=N/A time=00:00:55.70 bitrate=N/A    frame=  568 fps= 10 q=-1.0 size=N/A time=00:00:56.20 bitrate=N/A    frame=  573 fps= 10 q=-1.0 size=N/A time=00:00:56.70 bitrate=N/A    frame=  578 fps= 10 q=-1.0 size=N/A time=00:00:57.20 bitrate=N/A    frame=  583 fps= 10 q=-1.0 size=N/A time=00:00:57.70 bitrate=N/A    frame=  588 fps= 10 q=-1.0 size=N/A time=00:00:58.20 bitrate=N/A    frame=  593 fps= 10 q=-1.0 size=N/A time=00:00:58.70 bitrate=N/A    frame=  598 fps= 10 q=-1.0 size=N/A time=00:00:59.20 bitrate=N/A    frame=  604 fps= 10 q=-1.0 size=N/A time=00:00:59.80 bitrate=N/A    frame=  609 fps= 10 q=-1.0 size=N/A time=00:01:00.30 bitrate=N/A    frame=  614 fps= 10 q=-1.0 size=N/A time=00:01:00.80 bitrate=N/A    frame=  619 fps= 10 q=-1.0 size=N/A time=00:01:01.30 bitrate=N/A    frame=  624 fps= 10 q=-1.0 size=N/A time=00:01:01.80 bitrate=N/A    frame=  629 fps= 10 q=-1.0 size=N/A time=00:01:02.30 bitrate=N/A    frame=  634 fps= 10 q=-1.0 size=N/A time=00:01:02.80 bitrate=N/A    frame=  639 fps= 10 q=-1.0 size=N/A time=00:01:03.30 bitrate=N/A    frame=  644 fps= 10 q=-1.0 size=N/A time=00:01:03.80 bitrate=N/A    frame=  649 fps= 10 q=-1.0 size=N/A time=00:01:04.30 bitrate=N/A    frame=  654 fps= 10 q=-1.0 size=N/A time=00:01:04.80 bitrate=N/A    frame=  659 fps= 10 q=-1.0 size=N/A time=00:01:05.30 bitrate=N/A    frame=  664 fps= 10 q=-1.0 size=N/A time=00:01:05.80 bitrate=N/A    frame=  669 fps= 10 q=-1.0 size=N/A time=00:01:06.30 bitrate=N/A    frame=  674 fps= 10 q=-1.0 size=N/A time=00:01:06.80 bitrate=N/A    frame=  679 fps= 10 q=-1.0 size=N/A time=00:01:07.30 bitrate=N/A    frame=  684 fps= 10 q=-1.0 size=N/A time=00:01:07.80 bitrate=N/A    frame=  689 fps= 10 q=-1.0 size=N/A time=00:01:08.30 bitrate=N/A    frame=  695 fps= 10 q=-1.0 size=N/A time=00:01:08.90 bitrate=N/A    frame=  700 fps= 10 q=-1.0 size=N/A time=00:01:09.40 bitrate=N/A    frame=  705 fps= 10 q=-1.0 size=N/A time=00:01:09.90 bitrate=N/A    frame=  710 fps= 10 q=-1.0 size=N/A time=00:01:10.40 bitrate=N/A    frame=  715 fps= 10 q=-1.0 size=N/A time=00:01:10.90 bitrate=N/A    frame=  720 fps= 10 q=-1.0 size=N/A time=00:01:11.40 bitrate=N/A    frame=  725 fps= 10 q=-1.0 size=N/A time=00:01:11.90 bitrate=N/A    frame=  730 fps= 10 q=-1.0 size=N/A time=00:01:12.40 bitrate=N/A    frame=  735 fps= 10 q=-1.0 size=N/A time=00:01:12.90 bitrate=N/A    frame=  740 fps= 10 q=-1.0 size=N/A time=00:01:13.40 bitrate=N/A    frame=  745 fps= 10 q=-1.0 size=N/A time=00:01:13.90 bitrate=N/A    frame=  750 fps= 10 q=-1.0 size=N/A time=00:01:14.40 bitrate=N/A    frame=  755 fps= 10 q=-1.0 size=N/A time=00:01:14.90 bitrate=N/A    frame=  760 fps= 10 q=-1.0 size=N/A time=00:01:15.40 bitrate=N/A    frame=  765 fps= 10 q=-1.0 size=N/A time=00:01:15.90 bitrate=N/A    frame=  770 fps= 10 q=-1.0 size=N/A time=00:01:16.40 bitrate=N/A    frame=  775 fps= 10 q=-1.0 size=N/A time=00:01:16.90 bitrate=N/A    frame=  780 fps= 10 q=-1.0 size=N/A time=00:01:17.40 bitrate=N/A    frame=  785 fps= 10 q=-1.0 size=N/A time=00:01:17.90 bitrate=N/A    frame=  790 fps= 10 q=-1.0 size=N/A time=00:01:18.40 bitrate=N/A    frame=  796 fps= 10 q=-1.0 size=N/A time=00:01:19.00 bitrate=N/A    frame=  801 fps= 10 q=-1.0 size=N/A time=00:01:19.50 bitrate=N/A    frame=  806 fps= 10 q=-1.0 size=N/A time=00:01:20.00 bitrate=N/A    frame=  811 fps= 10 q=-1.0 size=N/A time=00:01:20.50 bitrate=N/A    frame=  816 fps= 10 q=-1.0 size=N/A time=00:01:21.00 bitrate=N/A    frame=  821 fps= 10 q=-1.0 size=N/A time=00:01:21.50 bitrate=N/A    frame=  826 fps= 10 q=-1.0 size=N/A time=00:01:22.00 bitrate=N/A    frame=  831 fps= 10 q=-1.0 size=N/A time=00:01:22.50 bitrate=N/A    frame=  836 fps= 10 q=-1.0 size=N/A time=00:01:23.00 bitrate=N/A    frame=  841 fps= 10 q=-1.0 size=N/A time=00:01:23.50 bitrate=N/A    frame=  846 fps= 10 q=-1.0 size=N/A time=00:01:24.00 bitrate=N/A    frame=  851 fps= 10 q=-1.0 size=N/A time=00:01:24.50 bitrate=N/A    frame=  856 fps= 10 q=-1.0 size=N/A time=00:01:25.00 bitrate=N/A    frame=  861 fps= 10 q=-1.0 size=N/A time=00:01:25.50 bitrate=N/A    frame=  866 fps= 10 q=-1.0 size=N/A time=00:01:26.00 bitrate=N/A    frame=  871 fps= 10 q=-1.0 size=N/A time=00:01:26.50 bitrate=N/A    frame=  876 fps= 10 q=-1.0 size=N/A time=00:01:27.00 bitrate=N/A    frame=  881 fps= 10 q=-1.0 size=N/A time=00:01:27.50 bitrate=N/A    frame=  886 fps= 10 q=-1.0 size=N/A time=00:01:28.00 bitrate=N/A    frame=  891 fps= 10 q=-1.0 size=N/A time=00:01:28.50 bitrate=N/A    frame=  897 fps= 10 q=-1.0 size=N/A time=00:01:29.10 bitrate=N/A    frame=  902 fps= 10 q=-1.0 size=N/A time=00:01:29.60 bitrate=N/A    frame=  907 fps= 10 q=-1.0 size=N/A time=00:01:30.10 bitrate=N/A    frame=  912 fps= 10 q=-1.0 size=N/A time=00:01:30.60 bitrate=N/A    frame=  917 fps= 10 q=-1.0 size=N/A time=00:01:31.10 bitrate=N/A    frame=  922 fps= 10 q=-1.0 size=N/A time=00:01:31.60 bitrate=N/A    frame=  927 fps= 10 q=-1.0 size=N/A time=00:01:32.10 bitrate=N/A    frame=  932 fps= 10 q=-1.0 size=N/A time=00:01:32.60 bitrate=N/A    frame=  937 fps= 10 q=-1.0 size=N/A time=00:01:33.10 bitrate=N/A    frame=  942 fps= 10 q=-1.0 size=N/A time=00:01:33.60 bitrate=N/A    frame=  947 fps= 10 q=-1.0 size=N/A time=00:01:34.10 bitrate=N/A    frame=  952 fps= 10 q=-1.0 size=N/A time=00:01:34.60 bitrate=N/A    frame=  957 fps= 10 q=-1.0 size=N/A time=00:01:35.10 bitrate=N/A    frame=  962 fps= 10 q=-1.0 size=N/A time=00:01:35.60 bitrate=N/A    frame=  967 fps= 10 q=-1.0 size=N/A time=00:01:36.10 bitrate=N/A    frame=  972 fps= 10 q=-1.0 size=N/A time=00:01:36.60 bitrate=N/A    frame=  977 fps= 10 q=-1.0 size=N/A time=00:01:37.10 bitrate=N/A    frame=  982 fps= 10 q=-1.0 size=N/A time=00:01:37.60 bitrate=N/A    frame=  987 fps= 10 q=-1.0 size=N/A time=00:01:38.10 bitrate=N/A    frame=  992 fps= 10 q=-1.0 size=N/A time=00:01:38.60 bitrate=N/A    frame=  998 fps= 10 q=-1.0 size=N/A time=00:01:39.20 bitrate=N/A    frame= 1003 fps= 10 q=-1.0 size=N/A time=00:01:39.70 bitrate=N/A    frame= 1008 fps= 10 q=-1.0 size=N/A time=00:01:40.20 bitrate=N/A    frame= 1013 fps= 10 q=-1.0 size=N/A time=00:01:40.70 bitrate=N/A    frame= 1018 fps= 10 q=-1.0 size=N/A time=00:01:41.20 bitrate=N/A    frame= 1023 fps= 10 q=-1.0 size=N/A time=00:01:41.70 bitrate=N/A    frame= 1028 fps= 10 q=-1.0 size=N/A time=00:01:42.20 bitrate=N/A    frame= 1033 fps= 10 q=-1.0 size=N/A time=00:01:42.70 bitrate=N/A    frame= 1038 fps= 10 q=-1.0 size=N/A time=00:01:43.20 bitrate=N/A    frame= 1043 fps= 10 q=-1.0 size=N/A time=00:01:43.70 bitrate=N/A    frame= 1048 fps= 10 q=-1.0 size=N/A time=00:01:44.20 bitrate=N/A    frame= 1053 fps= 10 q=-1.0 size=N/A time=00:01:44.70 bitrate=N/A    frame= 1058 fps= 10 q=-1.0 size=N/A time=00:01:45.20 bitrate=N/A    frame= 1063 fps= 10 q=-1.0 size=N/A time=00:01:45.70 bitrate=N/A    frame= 1068 fps= 10 q=-1.0 size=N/A time=00:01:46.20 bitrate=N/A    frame= 1073 fps= 10 q=-1.0 size=N/A time=00:01:46.70 bitrate=N/A    frame= 1078 fps= 10 q=-1.0 size=N/A time=00:01:47.20 bitrate=N/A    frame= 1083 fps= 10 q=-1.0 size=N/A time=00:01:47.70 bitrate=N/A    frame= 1088 fps= 10 q=-1.0 size=N/A time=00:01:48.20 bitrate=N/A    frame= 1094 fps= 10 q=-1.0 size=N/A time=00:01:48.80 bitrate=N/A    frame= 1099 fps= 10 q=-1.0 size=N/A time=00:01:49.30 bitrate=N/A    frame= 1104 fps= 10 q=-1.0 size=N/A time=00:01:49.80 bitrate=N/A    frame= 1109 fps= 10 q=-1.0 size=N/A time=00:01:50.30 bitrate=N/A    frame= 1114 fps= 10 q=-1.0 size=N/A time=00:01:50.80 bitrate=N/A    frame= 1119 fps= 10 q=-1.0 size=N/A time=00:01:51.30 bitrate=N/A    frame= 1124 fps= 10 q=-1.0 size=N/A time=00:01:51.80 bitrate=N/A    frame= 1129 fps= 10 q=-1.0 size=N/A time=00:01:52.30 bitrate=N/A    frame= 1134 fps= 10 q=-1.0 size=N/A time=00:01:52.80 bitrate=N/A    frame= 1139 fps= 10 q=-1.0 size=N/A time=00:01:53.30 bitrate=N/A    frame= 1144 fps= 10 q=-1.0 size=N/A time=00:01:53.79 bitrate=N/A    frame= 1149 fps= 10 q=-1.0 size=N/A time=00:01:54.29 bitrate=N/A    frame= 1154 fps= 10 q=-1.0 size=N/A time=00:01:54.80 bitrate=N/A    frame= 1159 fps= 10 q=-1.0 size=N/A time=00:01:55.30 bitrate=N/A    frame= 1164 fps= 10 q=-1.0 size=N/A time=00:01:55.80 bitrate=N/A    frame= 1169 fps= 10 q=-1.0 size=N/A time=00:01:56.30 bitrate=N/A    frame= 1174 fps= 10 q=-1.0 size=N/A time=00:01:56.80 bitrate=N/A    frame= 1179 fps= 10 q=-1.0 size=N/A time=00:01:57.30 bitrate=N/A    frame= 1184 fps= 10 q=-1.0 size=N/A time=00:01:57.80 bitrate=N/A    frame= 1190 fps= 10 q=-1.0 size=N/A time=00:01:58.40 bitrate=N/A    frame= 1195 fps= 10 q=-1.0 size=N/A time=00:01:58.90 bitrate=N/A    frame= 1200 fps= 10 q=-1.0 size=N/A time=00:01:59.40 bitrate=N/A    frame= 1205 fps= 10 q=-1.0 size=N/A time=00:01:59.90 bitrate=N/A    frame= 1210 fps= 10 q=-1.0 size=N/A time=00:02:00.40 bitrate=N/A    frame= 1215 fps= 10 q=-1.0 size=N/A time=00:02:00.90 bitrate=N/A    frame= 1220 fps= 10 q=-1.0 size=N/A time=00:02:01.40 bitrate=N/A    frame= 1225 fps= 10 q=-1.0 size=N/A time=00:02:01.90 bitrate=N/A    frame= 1230 fps= 10 q=-1.0 size=N/A time=00:02:02.40 bitrate=N/A    frame= 1235 fps= 10 q=-1.0 size=N/A time=00:02:02.90 bitrate=N/A    frame= 1240 fps= 10 q=-1.0 size=N/A time=00:02:03.40 bitrate=N/A    frame= 1245 fps= 10 q=-1.0 size=N/A time=00:02:03.90 bitrate=N/A    frame= 1250 fps= 10 q=-1.0 size=N/A time=00:02:04.40 bitrate=N/A    frame= 1255 fps= 10 q=-1.0 size=N/A time=00:02:04.90 bitrate=N/A    frame= 1260 fps= 10 q=-1.0 size=N/A time=00:02:05.40 bitrate=N/A    frame= 1265 fps= 10 q=-1.0 size=N/A time=00:02:05.90 bitrate=N/A    frame= 1270 fps= 10 q=-1.0 size=N/A time=00:02:06.40 bitrate=N/A    frame= 1275 fps= 10 q=-1.0 size=N/A time=00:02:06.90 bitrate=N/A    frame= 1280 fps= 10 q=-1.0 size=N/A time=00:02:07.40 bitrate=N/A    frame= 1286 fps= 10 q=-1.0 size=N/A time=00:02:08.00 bitrate=N/A    frame= 1291 fps= 10 q=-1.0 size=N/A time=00:02:08.50 bitrate=N/A    frame= 1296 fps= 10 q=-1.0 size=N/A time=00:02:09.00 bitrate=N/A    frame= 1301 fps= 10 q=-1.0 size=N/A time=00:02:09.50 bitrate=N/A    frame= 1306 fps= 10 q=-1.0 size=N/A time=00:02:10.00 bitrate=N/A    frame= 1311 fps= 10 q=-1.0 size=N/A time=00:02:10.50 bitrate=N/A    frame= 1316 fps= 10 q=-1.0 size=N/A time=00:02:11.00 bitrate=N/A    frame= 1321 fps= 10 q=-1.0 size=N/A time=00:02:11.50 bitrate=N/A    frame= 1326 fps= 10 q=-1.0 size=N/A time=00:02:12.00 bitrate=N/A    frame= 1331 fps= 10 q=-1.0 size=N/A time=00:02:12.50 bitrate=N/A    frame= 1336 fps= 10 q=-1.0 size=N/A time=00:02:13.00 bitrate=N/A    frame= 1341 fps= 10 q=-1.0 size=N/A time=00:02:13.50 bitrate=N/A    frame= 1346 fps= 10 q=-1.0 size=N/A time=00:02:14.00 bitrate=N/A    frame= 1351 fps= 10 q=-1.0 size=N/A time=00:02:14.50 bitrate=N/A    frame= 1356 fps= 10 q=-1.0 size=N/A time=00:02:15.00 bitrate=N/A    frame= 1361 fps= 10 q=-1.0 size=N/A time=00:02:15.50 bitrate=N/A    frame= 1366 fps= 10 q=-1.0 size=N/A time=00:02:16.00 bitrate=N/A    frame= 1371 fps= 10 q=-1.0 size=N/A time=00:02:16.50 bitrate=N/A    frame= 1376 fps= 10 q=-1.0 size=N/A time=00:02:17.00 bitrate=N/A    frame= 1382 fps= 10 q=-1.0 size=N/A time=00:02:17.60 bitrate=N/A    frame= 1387 fps= 10 q=-1.0 size=N/A time=00:02:18.10 bitrate=N/A    frame= 1392 fps= 10 q=-1.0 size=N/A time=00:02:18.60 bitrate=N/A    frame= 1397 fps= 10 q=-1.0 size=N/A time=00:02:19.10 bitrate=N/A    frame= 1402 fps= 10 q=-1.0 size=N/A time=00:02:19.60 bitrate=N/A    frame= 1407 fps= 10 q=-1.0 size=N/A time=00:02:20.10 bitrate=N/A    frame= 1412 fps= 10 q=-1.0 size=N/A time=00:02:20.60 bitrate=N/A    frame= 1417 fps= 10 q=-1.0 size=N/A time=00:02:21.10 bitrate=N/A    frame= 1422 fps= 10 q=-1.0 size=N/A time=00:02:21.60 bitrate=N/A    frame= 1427 fps= 10 q=-1.0 size=N/A time=00:02:22.10 bitrate=N/A    frame= 1432 fps= 10 q=-1.0 size=N/A time=00:02:22.60 bitrate=N/A    frame= 1437 fps= 10 q=-1.0 size=N/A time=00:02:23.10 bitrate=N/A    frame= 1442 fps= 10 q=-1.0 size=N/A time=00:02:23.60 bitrate=N/A    frame= 1447 fps= 10 q=-1.0 size=N/A time=00:02:24.10 bitrate=N/A    frame= 1452 fps= 10 q=-1.0 size=N/A time=00:02:24.60 bitrate=N/A    frame= 1457 fps= 10 q=-1.0 size=N/A time=00:02:25.10 bitrate=N/A    frame= 1462 fps= 10 q=-1.0 size=N/A time=00:02:25.60 bitrate=N/A    frame= 1467 fps= 10 q=-1.0 size=N/A time=00:02:26.10 bitrate=N/A    frame= 1472 fps= 10 q=-1.0 size=N/A time=00:02:26.60 bitrate=N/A    frame= 1477 fps= 10 q=-1.0 size=N/A time=00:02:27.10 bitrate=N/A    frame= 1482 fps= 10 q=-1.0 size=N/A time=00:02:27.60 bitrate=N/A    frame= 1487 fps= 10 q=-1.0 size=N/A time=00:02:28.10 bitrate=N/A    frame= 1493 fps= 10 q=-1.0 size=N/A time=00:02:28.70 bitrate=N/A    frame= 1498 fps= 10 q=-1.0 size=N/A time=00:02:29.20 bitrate=N/A    frame= 1503 fps= 10 q=-1.0 size=N/A time=00:02:29.70 bitrate=N/A    frame= 1508 fps= 10 q=-1.0 size=N/A time=00:02:30.20 bitrate=N/A    frame= 1513 fps= 10 q=-1.0 size=N/A time=00:02:30.70 bitrate=N/A    frame= 1518 fps= 10 q=-1.0 size=N/A time=00:02:31.20 bitrate=N/A    frame= 1523 fps= 10 q=-1.0 size=N/A time=00:02:31.70 bitrate=N/A    frame= 1528 fps= 10 q=-1.0 size=N/A time=00:02:32.20 bitrate=N/A    frame= 1533 fps= 10 q=-1.0 size=N/A time=00:02:32.70 bitrate=N/A    frame= 1538 fps= 10 q=-1.0 size=N/A time=00:02:33.20 bitrate=N/A    frame= 1543 fps= 10 q=-1.0 size=N/A time=00:02:33.70 bitrate=N/A    frame= 1548 fps= 10 q=-1.0 size=N/A time=00:02:34.20 bitrate=N/A    frame= 1553 fps= 10 q=-1.0 size=N/A time=00:02:34.70 bitrate=N/A    frame= 1558 fps= 10 q=-1.0 size=N/A time=00:02:35.20 bitrate=N/A    frame= 1563 fps= 10 q=-1.0 size=N/A time=00:02:35.70 bitrate=N/A    frame= 1568 fps= 10 q=-1.0 size=N/A time=00:02:36.20 bitrate=N/A    frame= 1573 fps= 10 q=-1.0 size=N/A time=00:02:36.70 bitrate=N/A    frame= 1578 fps= 10 q=-1.0 size=N/A time=00:02:37.20 bitrate=N/A    frame= 1583 fps= 10 q=-1.0 size=N/A time=00:02:37.70 bitrate=N/A    frame= 1588 fps= 10 q=-1.0 size=N/A time=00:02:38.20 bitrate=N/A    frame= 1593 fps= 10 q=-1.0 size=N/A time=00:02:38.70 bitrate=N/A    frame= 1598 fps= 10 q=-1.0 size=N/A time=00:02:39.20 bitrate=N/A    frame= 1603 fps= 10 q=-1.0 size=N/A time=00:02:39.70 bitrate=N/A    frame= 1609 fps= 10 q=-1.0 size=N/A time=00:02:40.30 bitrate=N/A    frame= 1614 fps= 10 q=-1.0 size=N/A time=00:02:40.80 bitrate=N/A    frame= 1619 fps= 10 q=-1.0 size=N/A time=00:02:41.30 bitrate=N/A    frame= 1624 fps= 10 q=-1.0 size=N/A time=00:02:41.80 bitrate=N/A    frame= 1629 fps= 10 q=-1.0 size=N/A time=00:02:42.30 bitrate=N/A    frame= 1634 fps= 10 q=-1.0 size=N/A time=00:02:42.80 bitrate=N/A    frame= 1639 fps= 10 q=-1.0 size=N/A time=00:02:43.30 bitrate=N/A    frame= 1644 fps= 10 q=-1.0 size=N/A time=00:02:43.80 bitrate=N/A    frame= 1649 fps= 10 q=-1.0 size=N/A time=00:02:44.30 bitrate=N/A    frame= 1654 fps= 10 q=-1.0 size=N/A time=00:02:44.80 bitrate=N/A    frame= 1659 fps= 10 q=-1.0 size=N/A time=00:02:45.30 bitrate=N/A    frame= 1664 fps= 10 q=-1.0 size=N/A time=00:02:45.80 bitrate=N/A    frame= 1669 fps= 10 q=-1.0 size=N/A time=00:02:46.30 bitrate=N/A    frame= 1674 fps= 10 q=-1.0 size=N/A time=00:02:46.80 bitrate=N/A    frame= 1679 fps= 10 q=-1.0 size=N/A time=00:02:47.30 bitrate=N/A    frame= 1684 fps= 10 q=-1.0 size=N/A time=00:02:47.80 bitrate=N/A    frame= 1689 fps= 10 q=-1.0 size=N/A time=00:02:48.30 bitrate=N/A    frame= 1694 fps= 10 q=-1.0 size=N/A time=00:02:48.80 bitrate=N/A    frame= 1699 fps= 10 q=-1.0 size=N/A time=00:02:49.30 bitrate=N/A    frame= 1704 fps= 10 q=-1.0 size=N/A time=00:02:49.80 bitrate=N/A    frame= 1709 fps= 10 q=-1.0 size=N/A time=00:02:50.30 bitrate=N/A    frame= 1714 fps= 10 q=-1.0 size=N/A time=00:02:50.80 bitrate=N/A    frame= 1719 fps= 10 q=-1.0 size=N/A time=00:02:51.30 bitrate=N/A    frame= 1725 fps= 10 q=-1.0 size=N/A time=00:02:51.90 bitrate=N/A    frame= 1730 fps= 10 q=-1.0 size=N/A time=00:02:52.40 bitrate=N/A    frame= 1735 fps= 10 q=-1.0 size=N/A time=00:02:52.90 bitrate=N/A    frame= 1740 fps= 10 q=-1.0 size=N/A time=00:02:53.40 bitrate=N/A    frame= 1745 fps= 10 q=-1.0 size=N/A time=00:02:53.90 bitrate=N/A    frame= 1750 fps= 10 q=-1.0 size=N/A time=00:02:54.40 bitrate=N/A    frame= 1755 fps= 10 q=-1.0 size=N/A time=00:02:54.90 bitrate=N/A    frame= 1760 fps= 10 q=-1.0 size=N/A time=00:02:55.40 bitrate=N/A    frame= 1765 fps= 10 q=-1.0 size=N/A time=00:02:55.90 bitrate=N/A    frame= 1770 fps= 10 q=-1.0 size=N/A time=00:02:56.40 bitrate=N/A    frame= 1775 fps= 10 q=-1.0 size=N/A time=00:02:56.90 bitrate=N/A    frame= 1780 fps= 10 q=-1.0 size=N/A time=00:02:57.40 bitrate=N/A    frame= 1785 fps= 10 q=-1.0 size=N/A time=00:02:57.90 bitrate=N/A    frame= 1790 fps= 10 q=-1.0 size=N/A time=00:02:58.40 bitrate=N/A    frame= 1795 fps= 10 q=-1.0 size=N/A time=00:02:58.90 bitrate=N/A    frame= 1800 fps= 10 q=-1.0 size=N/A time=00:02:59.40 bitrate=N/A    frame= 1805 fps= 10 q=-1.0 size=N/A time=00:02:59.90 bitrate=N/A    frame= 1810 fps= 10 q=-1.0 size=N/A time=00:03:00.40 bitrate=N/A    frame= 1815 fps= 10 q=-1.0 size=N/A time=00:03:00.90 bitrate=N/A    frame= 1820 fps= 10 q=-1.0 size=N/A time=00:03:01.40 bitrate=N/A    frame= 1825 fps= 10 q=-1.0 size=N/A time=00:03:01.90 bitrate=N/A    frame= 1830 fps= 10 q=-1.0 size=N/A time=00:03:02.40 bitrate=N/A    frame= 1836 fps= 10 q=-1.0 size=N/A time=00:03:03.00 bitrate=N/A    frame= 1841 fps= 10 q=-1.0 size=N/A time=00:03:03.50 bitrate=N/A    frame= 1846 fps= 10 q=-1.0 size=N/A time=00:03:04.00 bitrate=N/A    frame= 1851 fps= 10 q=-1.0 size=N/A time=00:03:04.50 bitrate=N/A    frame= 1856 fps= 10 q=-1.0 size=N/A time=00:03:05.00 bitrate=N/A    frame= 1861 fps= 10 q=-1.0 size=N/A time=00:03:05.50 bitrate=N/A    frame= 1866 fps= 10 q=-1.0 size=N/A time=00:03:06.00 bitrate=N/A    frame= 1868 fps= 10 q=-1.0 Lsize=N/A time=00:03:06.20 bitrate=N/A    
+video:95529kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+2025/07/15 15:56:48 INF [RTSP] [session 8a4ebf2f] destroyed: torn down by 127.0.0.1:56764
+2025/07/15 15:56:48 INF [RTSP] [conn 172.16.1.147:58270] closed: terminated
+2025/07/15 15:56:48 INF [RTSP] [conn 127.0.0.1:56764] closed: EOF
+2025/07/15 15:56:48 INF [RTSP] [session d3725353] destroyed: terminated
+2025/07/15 15:56:48 INF [path PPE3] runOnDemand command exited: command exited with code 0
+2025/07/15 15:56:51 INF [RTSP] [conn 172.16.1.147:58272] opened
+ffmpeg version 2.8.8 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/opt/ffmpeg-2.8.8_x264_v142 --enable-ffplay --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-network --enable-protocol=tcp --enable-demuxer=rtsp --enable-decoder=mjpeg --enable-decoder=h264 --disable-pthreads --disable-asm --extra-cflags=-fPIC --enable-debug --extra-cflags=-g --disable-optimizations --disable-mmx --disable-stripping --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+[h264 @ 0x55c708485e40] Warning: not compiled with thread support, using thread emulation
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/Data2/150_PPE_03.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf58.76.100
+  Duration: 00:03:06.20, start: 0.000000, bitrate: 4203 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuvj420p(pc, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[rtsp @ 0x55c708486fe0] Codec for stream 0 does not use global headers but container format requires global headers
+2025/07/15 15:56:53 INF [RTSP] [conn 127.0.0.1:56766] opened
+2025/07/15 15:56:53 INF [RTSP] [session 9703d422] created by 127.0.0.1:56766
+2025/07/15 15:56:53 INF [RTSP] [session 9703d422] is publishing to path 'PPE3', 1 track (H264)
+Output #0, rtsp, to 'rtsp://0.0.0.0:8554/PPE3':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Media Presentation
+    encoder         : Lavf56.40.101
+    Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuvj420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4202 kb/s, 10.03 fps, 10 tbr, 90k tbn, 10 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+2025/07/15 15:56:53 INF [RTSP] [session c76ab4ec] created by 172.16.1.147:58272
+2025/07/15 15:56:53 INF [RTSP] [session c76ab4ec] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   13 fps=0.0 q=-1.0 size=N/A time=00:00:00.70 bitrate=N/A    frame=   18 fps= 18 q=-1.0 size=N/A time=00:00:01.20 bitrate=N/A    frame=   23 fps= 15 q=-1.0 size=N/A time=00:00:01.70 bitrate=N/A    frame=   28 fps= 14 q=-1.0 size=N/A time=00:00:02.20 bitrate=N/A    2025/07/15 15:56:55 INF [RTSP] [session c76ab4ec] destroyed: torn down by 172.16.1.147:58272
+2025/07/15 15:56:55 INF [RTSP] [conn 172.16.1.147:58272] closed: EOF
+2025/07/15 15:56:55 INF [RTSP] [conn 172.16.1.147:58274] opened
+2025/07/15 15:56:55 INF [RTSP] [session 18d33589] created by 172.16.1.147:58274
+2025/07/15 15:56:55 INF [RTSP] [session 18d33589] is reading from path 'PPE3', with TCP, 1 track (H264)
+frame=   33 fps= 13 q=-1.0 size=N/A time=00:00:02.70 bitrate=N/A    frame=   38 fps= 13 q=-1.0 size=N/A time=00:00:03.19 bitrate=N/A    frame=   43 fps= 12 q=-1.0 size=N/A time=00:00:03.70 bitrate=N/A    frame=   48 fps= 12 q=-1.0 size=N/A time=00:00:04.20 bitrate=N/A    frame=   53 fps= 12 q=-1.0 size=N/A time=00:00:04.70 bitrate=N/A    frame=   58 fps= 11 q=-1.0 size=N/A time=00:00:05.20 bitrate=N/A    frame=   63 fps= 11 q=-1.0 size=N/A time=00:00:05.70 bitrate=N/A    frame=   68 fps= 11 q=-1.0 size=N/A time=00:00:06.20 bitrate=N/A    frame=   73 fps= 11 q=-1.0 size=N/A time=00:00:06.70 bitrate=N/A    frame=   78 fps= 11 q=-1.0 size=N/A time=00:00:07.19 bitrate=N/A    frame=   83 fps= 11 q=-1.0 size=N/A time=00:00:07.70 bitrate=N/A    frame=   88 fps= 11 q=-1.0 size=N/A time=00:00:08.20 bitrate=N/A    frame=   93 fps= 11 q=-1.0 size=N/A time=00:00:08.70 bitrate=N/A    frame=   98 fps= 11 q=-1.0 size=N/A time=00:00:09.20 bitrate=N/A    frame=  103 fps= 11 q=-1.0 size=N/A time=00:00:09.70 bitrate=N/A    frame=  108 fps= 11 q=-1.0 size=N/A time=00:00:10.20 bitrate=N/A    frame=  114 fps= 11 q=-1.0 size=N/A time=00:00:10.80 bitrate=N/A    frame=  119 fps= 11 q=-1.0 size=N/A time=00:00:11.30 bitrate=N/A    frame=  124 fps= 11 q=-1.0 size=N/A time=00:00:11.80 bitrate=N/A    frame=  129 fps= 11 q=-1.0 size=N/A time=00:00:12.30 bitrate=N/A    frame=  134 fps= 11 q=-1.0 size=N/A time=00:00:12.80 bitrate=N/A    frame=  139 fps= 11 q=-1.0 size=N/A time=00:00:13.30 bitrate=N/A    frame=  144 fps= 11 q=-1.0 size=N/A time=00:00:13.80 bitrate=N/A    frame=  149 fps= 11 q=-1.0 size=N/A time=00:00:14.30 bitrate=N/A    frame=  154 fps= 11 q=-1.0 size=N/A time=00:00:14.80 bitrate=N/A    frame=  159 fps= 11 q=-1.0 size=N/A time=00:00:15.30 bitrate=N/A    frame=  164 fps= 10 q=-1.0 size=N/A time=00:00:15.80 bitrate=N/A    frame=  169 fps= 10 q=-1.0 size=N/A time=00:00:16.30 bitrate=N/A    frame=  174 fps= 10 q=-1.0 size=N/A time=00:00:16.80 bitrate=N/A    frame=  179 fps= 10 q=-1.0 size=N/A time=00:00:17.30 bitrate=N/A    frame=  184 fps= 10 q=-1.0 size=N/A time=00:00:17.80 bitrate=N/A    frame=  189 fps= 10 q=-1.0 size=N/A time=00:00:18.30 bitrate=N/A    frame=  194 fps= 10 q=-1.0 size=N/A time=00:00:18.80 bitrate=N/A    frame=  199 fps= 10 q=-1.0 size=N/A time=00:00:19.30 bitrate=N/A    frame=  204 fps= 10 q=-1.0 size=N/A time=00:00:19.80 bitrate=N/A    frame=  209 fps= 10 q=-1.0 size=N/A time=00:00:20.30 bitrate=N/A    frame=  214 fps= 10 q=-1.0 size=N/A time=00:00:20.80 bitrate=N/A    frame=  220 fps= 10 q=-1.0 size=N/A time=00:00:21.40 bitrate=N/A    frame=  225 fps= 10 q=-1.0 size=N/A time=00:00:21.90 bitrate=N/A    frame=  230 fps= 10 q=-1.0 size=N/A time=00:00:22.40 bitrate=N/A    frame=  235 fps= 10 q=-1.0 size=N/A time=00:00:22.90 bitrate=N/A    frame=  240 fps= 10 q=-1.0 size=N/A time=00:00:23.40 bitrate=N/A    frame=  245 fps= 10 q=-1.0 size=N/A time=00:00:23.90 bitrate=N/A    frame=  250 fps= 10 q=-1.0 size=N/A time=00:00:24.40 bitrate=N/A    frame=  255 fps= 10 q=-1.0 size=N/A time=00:00:24.90 bitrate=N/A    frame=  260 fps= 10 q=-1.0 size=N/A time=00:00:25.40 bitrate=N/A    frame=  265 fps= 10 q=-1.0 size=N/A time=00:00:25.90 bitrate=N/A    frame=  270 fps= 10 q=-1.0 size=N/A time=00:00:26.40 bitrate=N/A    frame=  275 fps= 10 q=-1.0 size=N/A time=00:00:26.90 bitrate=N/A    frame=  280 fps= 10 q=-1.0 size=N/A time=00:00:27.40 bitrate=N/A    frame=  285 fps= 10 q=-1.0 size=N/A time=00:00:27.90 bitrate=N/A    frame=  290 fps= 10 q=-1.0 size=N/A time=00:00:28.40 bitrate=N/A    frame=  295 fps= 10 q=-1.0 size=N/A time=00:00:28.90 bitrate=N/A    frame=  300 fps= 10 q=-1.0 size=N/A time=00:00:29.40 bitrate=N/A    frame=  305 fps= 10 q=-1.0 size=N/A time=00:00:29.90 bitrate=N/A    frame=  310 fps= 10 q=-1.0 size=N/A time=00:00:30.40 bitrate=N/A    frame=  316 fps= 10 q=-1.0 size=N/A time=00:00:31.00 bitrate=N/A    frame=  321 fps= 10 q=-1.0 size=N/A time=00:00:31.50 bitrate=N/A    frame=  326 fps= 10 q=-1.0 size=N/A time=00:00:32.00 bitrate=N/A    frame=  331 fps= 10 q=-1.0 size=N/A time=00:00:32.50 bitrate=N/A    frame=  336 fps= 10 q=-1.0 size=N/A time=00:00:33.00 bitrate=N/A    frame=  341 fps= 10 q=-1.0 size=N/A time=00:00:33.50 bitrate=N/A    frame=  346 fps= 10 q=-1.0 size=N/A time=00:00:34.00 bitrate=N/A    frame=  351 fps= 10 q=-1.0 size=N/A time=00:00:34.50 bitrate=N/A    frame=  356 fps= 10 q=-1.0 size=N/A time=00:00:35.00 bitrate=N/A    frame=  361 fps= 10 q=-1.0 size=N/A time=00:00:35.50 bitrate=N/A    frame=  366 fps= 10 q=-1.0 size=N/A time=00:00:36.00 bitrate=N/A    frame=  371 fps= 10 q=-1.0 size=N/A time=00:00:36.50 bitrate=N/A    frame=  376 fps= 10 q=-1.0 size=N/A time=00:00:37.00 bitrate=N/A    frame=  381 fps= 10 q=-1.0 size=N/A time=00:00:37.50 bitrate=N/A    frame=  386 fps= 10 q=-1.0 size=N/A time=00:00:38.00 bitrate=N/A    frame=  391 fps= 10 q=-1.0 size=N/A time=00:00:38.50 bitrate=N/A    frame=  396 fps= 10 q=-1.0 size=N/A time=00:00:39.00 bitrate=N/A    frame=  401 fps= 10 q=-1.0 size=N/A time=00:00:39.50 bitrate=N/A    frame=  406 fps= 10 q=-1.0 size=N/A time=00:00:40.00 bitrate=N/A    frame=  411 fps= 10 q=-1.0 size=N/A time=00:00:40.50 bitrate=N/A    frame=  417 fps= 10 q=-1.0 size=N/A time=00:00:41.10 bitrate=N/A    frame=  422 fps= 10 q=-1.0 size=N/A time=00:00:41.60 bitrate=N/A    frame=  427 fps= 10 q=-1.0 size=N/A time=00:00:42.10 bitrate=N/A    frame=  432 fps= 10 q=-1.0 size=N/A time=00:00:42.60 bitrate=N/A    frame=  437 fps= 10 q=-1.0 size=N/A time=00:00:43.10 bitrate=N/A    frame=  442 fps= 10 q=-1.0 size=N/A time=00:00:43.60 bitrate=N/A    frame=  447 fps= 10 q=-1.0 size=N/A time=00:00:44.10 bitrate=N/A    frame=  452 fps= 10 q=-1.0 size=N/A time=00:00:44.60 bitrate=N/A    frame=  457 fps= 10 q=-1.0 size=N/A time=00:00:45.10 bitrate=N/A    frame=  462 fps= 10 q=-1.0 size=N/A time=00:00:45.60 bitrate=N/A    frame=  467 fps= 10 q=-1.0 size=N/A time=00:00:46.10 bitrate=N/A    frame=  472 fps= 10 q=-1.0 size=N/A time=00:00:46.60 bitrate=N/A    frame=  477 fps= 10 q=-1.0 size=N/A time=00:00:47.10 bitrate=N/A    frame=  482 fps= 10 q=-1.0 size=N/A time=00:00:47.60 bitrate=N/A    frame=  487 fps= 10 q=-1.0 size=N/A time=00:00:48.10 bitrate=N/A    frame=  492 fps= 10 q=-1.0 size=N/A time=00:00:48.60 bitrate=N/A    frame=  497 fps= 10 q=-1.0 size=N/A time=00:00:49.10 bitrate=N/A    frame=  502 fps= 10 q=-1.0 size=N/A time=00:00:49.60 bitrate=N/A    frame=  507 fps= 10 q=-1.0 size=N/A time=00:00:50.10 bitrate=N/A    frame=  512 fps= 10 q=-1.0 size=N/A time=00:00:50.60 bitrate=N/A    frame=  518 fps= 10 q=-1.0 size=N/A time=00:00:51.20 bitrate=N/A    frame=  523 fps= 10 q=-1.0 size=N/A time=00:00:51.70 bitrate=N/A    frame=  528 fps= 10 q=-1.0 size=N/A time=00:00:52.20 bitrate=N/A    frame=  533 fps= 10 q=-1.0 size=N/A time=00:00:52.69 bitrate=N/A    

@@ -1,0 +1,23 @@
+[Unit]
+Description=MediaMTX RTSP Server
+After=network.target
+
+[Service]
+Type=simple
+User=okean
+Group=okean
+WorkingDirectory=/mnt/Data2/mediamtx
+
+# Set LD_LIBRARY_PATH
+Environment="LD_LIBRARY_PATH=/opt/ffmpeg-2.8.8_x264_v142/lib:/usr/lib:/usr/local/lib"
+
+ExecStart=/mnt/Data2/mediamtx/mediamtx /mnt/Data2/mediamtx/mediamtx-multi.yml
+StandardOutput=append:/mnt/Data2/mediamtx/mediamtx.log
+StandardError=append:/mnt/Data2/mediamtx/mediamtx.log
+Restart=always
+RestartSec=5
+UMask=007
+
+[Install]
+WantedBy=multi-user.target
+

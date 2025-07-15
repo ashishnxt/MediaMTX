@@ -1,0 +1,52 @@
+#logLevel: debug
+paths:
+  Gloves:
+    runOnDemand: >
+      /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
+      -re
+      -i /mnt/Data2/150_Gloves_01.mp4
+      -c copy
+      -f rtsp
+      -rtsp_transport tcp
+      rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
+    runOnDemandRestart: yes
+  Helmet:
+    runOnDemand: >
+      /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
+      -re
+      -i /mnt/Data2/150_Helmet_01.mp4
+      -c copy
+      -f rtsp
+      -rtsp_transport tcp
+      rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
+    runOnDemandRestart: yes
+  PPE3:
+    runOnDemand: >
+      /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
+      -re
+      -i /mnt/Data2/150_PPE_03.mp4
+      -c copy
+      -f rtsp
+      -rtsp_transport tcp
+      rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
+    runOnDemandRestart: yes
+  PPE4:
+    runOnDemand: >
+      /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
+      -re
+      -i /mnt/Data2/150_PPE_04.mp4
+      -c copy
+      -f rtsp
+      -rtsp_transport tcp
+      rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
+    runOnDemandRestart: yes
+  PPEJacket:
+    runOnDemand: >
+      /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
+      -re
+      -i /mnt/Data2/150_PPEJacket_01.mp4
+      -c copy
+      -f rtsp
+      -rtsp_transport tcp
+      rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
+    runOnDemandRestart: yes
