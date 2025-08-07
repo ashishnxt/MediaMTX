@@ -93,5 +93,35 @@ rtsp://<server-ip>:8554/Cam2
 
 ---
 
+## 🛠️ 5. mediamtx.service
+```
+[Unit]
+Description=MediaMTX RTSP Server
+After=network.target
 
+[Service]
+Type=simple
+User=okean
+Group=okean
+WorkingDirectory=/mnt/Data2/mediamtx
+
+# Set LD_LIBRARY_PATH
+Environment="LD_LIBRARY_PATH=/opt/ffmpeg-2.8.8_x264_v142/lib:/usr/lib:/usr/local/lib"
+
+ExecStart=/mnt/Data2/mediamtx/mediamtx /mnt/Data2/mediamtx/mediamtx-multi.yml #path of your mediamtx folder with yaml
+StandardOutput=append:/mnt/Data2/mediamtx/mediamtx.log
+StandardError=append:/mnt/Data2/mediamtx/mediamtx.log
+Restart=always
+RestartSec=5
+UMask=007
+
+[Install]
+WantedBy=multi-user.target
+```
+```
+sudo systemctl daemon-reload
+sudo systemctl enable mediamtx
+sudo systemctl start mediamtx
+sudo systemctl status mediamtx
+```
 
