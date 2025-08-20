@@ -1,6 +1,6 @@
 #logLevel: debug
 paths:
-  Gloves:
+  cam1:
     runOnDemand: >
       /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
       -re
@@ -10,7 +10,7 @@ paths:
       -rtsp_transport tcp
       rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
     runOnDemandRestart: yes
-  Helmet:
+  cam2:
     runOnDemand: >
       /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
       -re
@@ -20,7 +20,7 @@ paths:
       -rtsp_transport tcp
       rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
     runOnDemandRestart: yes
-  PPE3:
+  cam3:
     runOnDemand: >
       /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
       -re
@@ -30,7 +30,7 @@ paths:
       -rtsp_transport tcp
       rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
     runOnDemandRestart: yes
-  PPE4:
+  cam4:
     runOnDemand: >
       /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
       -re
@@ -40,7 +40,7 @@ paths:
       -rtsp_transport tcp
       rtsp://0.0.0.0:$RTSP_PORT/$MTX_PATH
     runOnDemandRestart: yes
-  PPEJacket:
+  cam5:
     runOnDemand: >
       /opt/ffmpeg-2.8.8_x264_v142/bin/ffmpeg
       -re
